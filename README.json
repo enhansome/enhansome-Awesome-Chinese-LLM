@@ -24,7 +24,7 @@
                         "last_commit": "2024-06-27T04:05:25Z",
                         "owner": "zai-org",
                         "repo": "ChatGLM-6B",
-                        "stars": 40983
+                        "stars": 40982
                       }
                     }
                   ]
@@ -68,7 +68,7 @@
                         "last_commit": "2025-01-13T06:55:26Z",
                         "owner": "zai-org",
                         "repo": "ChatGLM3",
-                        "stars": 13655
+                        "stars": 13656
                       }
                     }
                   ]
@@ -134,7 +134,7 @@
                         "last_commit": "2025-10-30T00:35:43Z",
                         "owner": "InternLM",
                         "repo": "InternLM",
-                        "stars": 7269
+                        "stars": 7271
                       }
                     }
                   ]
@@ -200,7 +200,7 @@
                         "last_commit": "2023-09-06T17:16:53Z",
                         "owner": "baichuan-inc",
                         "repo": "Baichuan-13B",
-                        "stars": 2926
+                        "stars": 2925
                       }
                     }
                   ]
@@ -376,7 +376,7 @@
                         "last_commit": "2026-04-19T00:58:05Z",
                         "owner": "ymcui",
                         "repo": "Chinese-LLaMA-Alpaca",
-                        "stars": 18931
+                        "stars": 18932
                       }
                     }
                   ]
@@ -442,7 +442,7 @@
                         "last_commit": "2025-04-06T09:16:55Z",
                         "owner": "LlamaChinese",
                         "repo": "Llama-Chinese",
-                        "stars": 14738
+                        "stars": 14740
                       }
                     }
                   ]
@@ -596,7 +596,7 @@
                         "last_commit": "2026-05-27T13:16:14Z",
                         "owner": "OpenMOSS",
                         "repo": "MOSS",
-                        "stars": 12230
+                        "stars": 12231
                       }
                     }
                   ]
@@ -662,7 +662,7 @@
                         "last_commit": "2024-10-24T02:27:42Z",
                         "owner": "yangjianxin1",
                         "repo": "Firefly",
-                        "stars": 6653
+                        "stars": 6654
                       }
                     }
                   ]
@@ -1124,7 +1124,7 @@
                         "last_commit": "2026-07-27T06:50:07Z",
                         "owner": "OpenBMB",
                         "repo": "MiniCPM",
-                        "stars": 10250
+                        "stars": 10254
                       }
                     }
                   ]
@@ -1329,7 +1329,7 @@
                         "last_commit": "2026-08-26T09:50:07Z",
                         "owner": "OpenBMB",
                         "repo": "MiniCPM-V",
-                        "stars": 26240
+                        "stars": 26243
                       }
                     }
                   ]
@@ -1373,7 +1373,7 @@
                         "last_commit": "2025-09-22T01:36:48Z",
                         "owner": "OpenGVLab",
                         "repo": "InternVL",
-                        "stars": 10146
+                        "stars": 10145
                       }
                     }
                   ]
@@ -1631,7 +1631,7 @@
                             "last_commit": "2026-06-03T03:39:57Z",
                             "owner": "shibing624",
                             "repo": "MedicalGPT",
-                            "stars": 5748
+                            "stars": 5751
                           }
                         }
                       ]
@@ -1675,7 +1675,7 @@
                             "last_commit": "2023-08-31T02:59:22Z",
                             "owner": "michael-wzhu",
                             "repo": "ShenNong-TCM-LLM",
-                            "stars": 504
+                            "stars": 505
                           }
                         }
                       ]
@@ -1858,7 +1858,7 @@
                             "last_commit": "2024-05-13T08:25:34Z",
                             "owner": "LiuHC0428",
                             "repo": "LAW-GPT",
-                            "stars": 1194
+                            "stars": 1195
                           }
                         }
                       ]
@@ -1968,7 +1968,7 @@
                             "last_commit": "2025-01-04T15:29:26Z",
                             "owner": "PKU-YuanGroup",
                             "repo": "ChatLaw",
-                            "stars": 7588
+                            "stars": 7589
                           }
                         }
                       ]
@@ -2034,7 +2034,7 @@
                             "last_commit": "2025-07-30T06:24:22Z",
                             "owner": "irlab-sdu",
                             "repo": "fuzi.mingcha",
-                            "stars": 388
+                            "stars": 390
                           }
                         }
                       ]
@@ -2151,7 +2151,7 @@
                             "last_commit": "2026-08-02T03:23:48Z",
                             "owner": "AI4Finance-Foundation",
                             "repo": "FinGPT",
-                            "stars": 21153
+                            "stars": 21158
                           }
                         }
                       ]
@@ -2472,7 +2472,7 @@
                             "last_commit": "2026-08-26T09:50:07Z",
                             "owner": "OpenBMB",
                             "repo": "MiniCPM-V",
-                            "stars": 26240
+                            "stars": 26243
                           }
                         },
                         {
@@ -2521,7 +2521,7 @@
                         "last_commit": "2025-11-10T09:27:42Z",
                         "owner": "chatchat-space",
                         "repo": "Langchain-Chatchat",
-                        "stars": 38581
+                        "stars": 38584
                       }
                     }
                   ]
@@ -2653,7 +2653,7 @@
                         "last_commit": "2026-07-24T08:01:27Z",
                         "owner": "OpenBMB",
                         "repo": "ChatDev",
-                        "stars": 34126
+                        "stars": 34131
                       }
                     }
                   ]
@@ -2704,7 +2704,7 @@
                         "last_commit": "2025-01-23T12:55:35Z",
                         "owner": "wenda-LLM",
                         "repo": "wenda",
-                        "stars": 6159
+                        "stars": 6158
                       }
                     }
                   ]
@@ -2770,7 +2770,7 @@
                         "last_commit": "2026-08-26T06:22:32Z",
                         "owner": "ztxz16",
                         "repo": "fastllm",
-                        "stars": 4945
+                        "stars": 4947
                       }
                     }
                   ]
@@ -2814,7 +2814,7 @@
                         "last_commit": "2026-01-25T12:33:10Z",
                         "owner": "binary-husky",
                         "repo": "gpt_academic",
-                        "stars": 71245
+                        "stars": 71250
                       }
                     }
                   ]
@@ -2943,10 +2943,10 @@
                         "archived": false,
                         "id": 810121174,
                         "language": "Python",
-                        "last_commit": "2026-08-26T08:27:42Z",
+                        "last_commit": "2026-08-27T03:39:24Z",
                         "owner": "LazyAGI",
                         "repo": "LazyLLM",
-                        "stars": 3876
+                        "stars": 3877
                       }
                     }
                   ]
@@ -3004,7 +3004,7 @@
                         "last_commit": "2026-08-15T11:52:11Z",
                         "owner": "esbatmop",
                         "repo": "MNBVC",
-                        "stars": 4267
+                        "stars": 4268
                       }
                     }
                   ]
@@ -3187,7 +3187,7 @@
                         "last_commit": "2023-06-19T07:24:00Z",
                         "owner": "ydli-ai",
                         "repo": "CSL",
-                        "stars": 674
+                        "stars": 675
                       }
                     }
                   ]
@@ -3348,7 +3348,7 @@
                         "last_commit": "2023-07-20T03:30:38Z",
                         "owner": "X-PLUG",
                         "repo": "CValues",
-                        "stars": 558
+                        "stars": 559
                       }
                     }
                   ]
@@ -3423,10 +3423,10 @@
                     "archived": false,
                     "id": 235860204,
                     "language": "Python",
-                    "last_commit": "2026-08-26T22:18:46Z",
+                    "last_commit": "2026-08-27T10:29:41Z",
                     "owner": "deepspeedai",
                     "repo": "DeepSpeed",
-                    "stars": 43003
+                    "stars": 43005
                   }
                 }
               ]
@@ -3445,10 +3445,10 @@
                     "archived": false,
                     "id": 646410686,
                     "language": "Python",
-                    "last_commit": "2026-08-26T21:14:26Z",
+                    "last_commit": "2026-08-27T10:50:57Z",
                     "owner": "hiyouga",
                     "repo": "LlamaFactory",
-                    "stars": 74382
+                    "stars": 74395
                   }
                 }
               ]
@@ -3518,10 +3518,10 @@
                     "archived": false,
                     "id": 599547518,
                     "language": "Python",
-                    "last_commit": "2026-08-26T23:19:49Z",
+                    "last_commit": "2026-08-27T11:06:20Z",
                     "owner": "vllm-project",
                     "repo": "vllm",
-                    "stars": 90145
+                    "stars": 90205
                   }
                 }
               ]
@@ -3565,7 +3565,7 @@
                     "last_commit": "2026-03-21T11:34:22Z",
                     "owner": "huggingface",
                     "repo": "text-generation-inference",
-                    "stars": 10889
+                    "stars": 10890
                   }
                 }
               ]
@@ -3587,7 +3587,7 @@
                     "last_commit": "2026-08-16T16:34:36Z",
                     "owner": "OpenNMT",
                     "repo": "CTranslate2",
-                    "stars": 4644
+                    "stars": 4645
                   }
                 }
               ]
@@ -3609,7 +3609,7 @@
                     "last_commit": "2026-08-24T17:01:25Z",
                     "owner": "bentoml",
                     "repo": "OpenLLM",
-                    "stars": 12518
+                    "stars": 12519
                   }
                 }
               ]
@@ -3631,7 +3631,7 @@
                     "last_commit": "2026-08-25T07:22:34Z",
                     "owner": "alibaba",
                     "repo": "MNN",
-                    "stars": 15972
+                    "stars": 15975
                   }
                 }
               ]
@@ -3653,7 +3653,7 @@
                     "last_commit": "2026-08-17T20:50:06Z",
                     "owner": "mlc-ai",
                     "repo": "mlc-llm",
-                    "stars": 23095
+                    "stars": 23101
                   }
                 }
               ]
@@ -3672,10 +3672,10 @@
                     "archived": false,
                     "id": 669420857,
                     "language": "Python",
-                    "last_commit": "2026-08-26T16:00:04Z",
+                    "last_commit": "2026-08-27T10:38:03Z",
                     "owner": "ModelTC",
                     "repo": "LightLLM",
-                    "stars": 4244
+                    "stars": 4245
                   }
                 }
               ]
@@ -3716,10 +3716,10 @@
                     "archived": false,
                     "id": 654122609,
                     "language": "Python",
-                    "last_commit": "2026-08-26T12:01:03Z",
+                    "last_commit": "2026-08-27T04:44:13Z",
                     "owner": "InternLM",
                     "repo": "lmdeploy",
-                    "stars": 8024
+                    "stars": 8027
                   }
                 }
               ]
@@ -3789,10 +3789,10 @@
                     "archived": false,
                     "id": 654124617,
                     "language": "Python",
-                    "last_commit": "2026-08-26T08:35:21Z",
+                    "last_commit": "2026-08-27T06:37:44Z",
                     "owner": "open-compass",
                     "repo": "opencompass",
-                    "stars": 7365
+                    "stars": 7370
                   }
                 }
               ]
@@ -3946,7 +3946,7 @@
                     "last_commit": "2026-08-23T10:20:24Z",
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6401
+                    "stars": 6405
                   }
                 }
               ]
@@ -4094,7 +4094,7 @@
                         "last_commit": "2025-06-12T14:48:07Z",
                         "owner": "datawhalechina",
                         "repo": "llm-cookbook",
-                        "stars": 24590
+                        "stars": 24592
                       }
                     }
                   ]
@@ -4116,7 +4116,7 @@
                         "last_commit": "2026-04-28T10:52:14Z",
                         "owner": "PlexPt",
                         "repo": "awesome-chatgpt-prompts-zh",
-                        "stars": 61834
+                        "stars": 61849
                       }
                     }
                   ]
@@ -4145,7 +4145,7 @@
                         "last_commit": "2026-08-26T23:24:07Z",
                         "owner": "openai",
                         "repo": "openai-cookbook",
-                        "stars": 75570
+                        "stars": 75576
                       }
                     }
                   ]
@@ -4167,7 +4167,7 @@
                         "last_commit": "2024-01-23T10:02:45Z",
                         "owner": "phodal",
                         "repo": "aigc",
-                        "stars": 1650
+                        "stars": 1651
                       }
                     }
                   ]
@@ -4218,7 +4218,7 @@
                         "last_commit": "2026-07-19T13:13:31Z",
                         "owner": "liguodongiot",
                         "repo": "llm-action",
-                        "stars": 24958
+                        "stars": 24959
                       }
                     }
                   ]
@@ -4281,10 +4281,10 @@
                         "archived": false,
                         "id": 622424201,
                         "language": "Python",
-                        "last_commit": "2026-08-26T05:09:50Z",
+                        "last_commit": "2026-08-27T10:06:59Z",
                         "owner": "ikaijua",
                         "repo": "Awesome-AITools",
-                        "stars": 6151
+                        "stars": 6153
                       }
                     }
                   ]
@@ -4350,7 +4350,7 @@
                         "last_commit": "2025-07-31T02:38:24Z",
                         "owner": "Hannibal046",
                         "repo": "Awesome-LLM",
-                        "stars": 27287
+                        "stars": 27293
                       }
                     }
                   ]
@@ -4460,7 +4460,7 @@
                         "last_commit": "2024-11-30T12:21:02Z",
                         "owner": "wgwang",
                         "repo": "awesome-LLMs-In-China",
-                        "stars": 6471
+                        "stars": 6472
                       }
                     }
                   ]
@@ -4504,7 +4504,7 @@
                         "last_commit": "2025-06-23T12:16:37Z",
                         "owner": "LiLittleCat",
                         "repo": "awesome-free-chatgpt",
-                        "stars": 21230
+                        "stars": 21228
                       }
                     }
                   ]
@@ -4568,9 +4568,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T23:31:43.327Z",
-    "original_repository": "AiHubCN/Awesome-Chinese-LLM",
-    "original_repository_id": 643916827,
+    "last_updated": "2026-08-27T11:23:09.739Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 643916827,
+      "language": null,
+      "last_commit": "2026-05-10T05:03:06Z",
+      "owner": "AiHubCN",
+      "repo": "Awesome-Chinese-LLM",
+      "stars": 22752
+    },
     "original_repository_sha": "6cb710841de730538de6651e8a240076537daed8",
     "enhanced_repository": "enhansome/enhansome-Awesome-Chinese-LLM",
     "enhanced_repository_description": null,

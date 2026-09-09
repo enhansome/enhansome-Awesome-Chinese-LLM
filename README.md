@@ -96,7 +96,7 @@
     ![](https://img.shields.io/github/stars/THUDM/ChatGLM3.svg)
   * 简介：ChatGLM3-6B 是 ChatGLM3 系列中的开源模型，在保留了前两代模型对话流畅、部署门槛低等众多优秀特性的基础上，ChatGLM3-6B 引入了如下特性：更强大的基础模型： ChatGLM3-6B 的基础模型 ChatGLM3-6B-Base 采用了更多样的训练数据、更充分的训练步数和更合理的训练策略；更完整的功能支持： ChatGLM3-6B 采用了全新设计的 Prompt 格式，除正常的多轮对话外。同时原生支持工具调用（Function Call）、代码执行（Code Interpreter）和 Agent 任务等复杂场景；更全面的开源序列： 除了对话模型 ChatGLM3-6B 外，还开源了基础模型 ChatGLM3-6B-Base、长文本对话模型 ChatGLM3-6B-32K。以上所有权重对学术研究完全开放，在填写问卷进行登记后亦允许免费商业使用。
 * GLM-4
-  * 地址：<https://github.com/THUDM/GLM-4> ⭐ 7,073 | 🐛 35 | 🌐 Python | 📅 2026-08-05
+  * 地址：<https://github.com/THUDM/GLM-4> ⭐ 7,072 | 🐛 35 | 🌐 Python | 📅 2026-08-05
     ![](https://img.shields.io/github/stars/THUDM/GLM-4.svg)
   * 简介：GLM-4-9B 是智谱 AI 推出的最新一代预训练模型 GLM-4 系列中的开源版本。 在语义、数学、推理、代码和知识等多方面的数据集测评中， **GLM-4-9B** 及其人类偏好对齐的版本 **GLM-4-9B-Chat** 均表现出超越 Llama-3-8B 的卓越性能。除了能进行多轮对话，GLM-4-9B-Chat 还具备网页浏览、代码执行、自定义工具调用（Function Call）和长文本推理（支持最大 128K 上下文）等高级功能。本代模型增加了多语言支持，支持包括日语，韩语，德语在内的 26 种语言。我们还推出了支持 1M 上下文长度（约 200 万中文字符）的 **GLM-4-9B-Chat-1M** 模型和基于 GLM-4-9B 的多模态模型 GLM-4V-9B。**GLM-4V-9B** 具备 1120 \* 1120 高分辨率下的中英双语多轮对话能力，在中英文综合能力、感知推理、文字识别、图表理解等多方面多模态评测中，GLM-4V-9B 表现出超越 GPT-4-turbo-2024-04-09、Gemini 1.0 Pro、Qwen-VL-Max 和 Claude 3 Opus 的卓越性能。
 * Qwen/Qwen1.5/Qwen2/Qwen2.5/Qwen-3
@@ -108,7 +108,7 @@
     ![](https://img.shields.io/github/stars/InternLM/InternLM-techreport.svg)
   * 简介：商汤科技、上海AI实验室联合香港中文大学、复旦大学和上海交通大学发布千亿级参数大语言模型“书生·浦语”（InternLM）。据悉，“书生·浦语”具有1040亿参数，基于“包含1.6万亿token的多语种高质量数据集”训练而成。
 * InternLM2
-  * 地址：<https://github.com/InternLM/InternLM> ⭐ 7,275 | 🐛 8 | 🌐 Python | 📅 2025-10-30
+  * 地址：<https://github.com/InternLM/InternLM> ⭐ 7,277 | 🐛 8 | 🌐 Python | 📅 2025-10-30
     ![](https://img.shields.io/github/stars/InternLM/InternLM.svg)
   * 简介：商汤科技、上海AI实验室联合香港中文大学、复旦大学和上海交通大学发布千亿级参数大语言模型“书生·浦语”（InternLM2）。InternLM2 在数理、代码、对话、创作等各方面能力都获得了长足进步，综合性能达到开源模型的领先水平。InternLM2 包含两种模型规格：7B 和 20B。7B 为轻量级的研究和应用提供了一个轻便但性能不俗的模型，20B 模型的综合性能更为强劲，可以有效支持更加复杂的实用场景。
 * DeepSeek-V2
@@ -152,7 +152,7 @@
     ![](https://img.shields.io/github/stars/01-ai/Yi.svg)
   * 简介：该项目开源了Yi-6B和Yi-34B等模型，该系列模型最长可支持200K的超长上下文窗口版本，可以处理约40万汉字超长文本输入，理解超过1000页的PDF文档。
 * Chinese-LLaMA-Alpaca：
-  * 地址：<https://github.com/ymcui/Chinese-LLaMA-Alpaca> ⭐ 18,939 | 🐛 5 | 🌐 Python | 📅 2026-04-19
+  * 地址：<https://github.com/ymcui/Chinese-LLaMA-Alpaca> ⭐ 18,942 | 🐛 5 | 🌐 Python | 📅 2026-04-19
     ![](https://img.shields.io/github/stars/ymcui/Chinese-LLaMA-Alpaca.svg)
   * 简介：中文LLaMA\&Alpaca大语言模型+本地CPU/GPU部署，在原版LLaMA的基础上扩充了中文词表并使用了中文数据进行二次预训练
 * Chinese-LLaMA-Alpaca-2：
@@ -164,7 +164,7 @@
     ![](https://img.shields.io/github/stars/michael-wzhu/Chinese-LlaMA2.svg)
   * 简介：该项目基于可商用的LLaMA-2进行二次开发决定在次开展Llama 2的中文汉化工作，包括Chinese-LlaMA2: 对Llama 2进行中文预训练；第一步：先在42G中文预料上进行训练；后续将会加大训练规模；Chinese-LlaMA2-chat: 对Chinese-LlaMA2进行指令微调和多轮对话微调，以适应各种应用场景和多轮对话交互。同时我们也考虑更为快速的中文适配方案：Chinese-LlaMA2-sft-v0: 采用现有的开源中文指令微调或者是对话数据，对LlaMA-2进行直接微调 (将于近期开源)。
 * Llama2-Chinese：
-  * 地址：<https://github.com/FlagAlpha/Llama2-Chinese> ⭐ 14,749 | 🐛 195 | 🌐 Python | 📅 2025-04-06
+  * 地址：<https://github.com/FlagAlpha/Llama2-Chinese> ⭐ 14,751 | 🐛 195 | 🌐 Python | 📅 2025-04-06
     ![](https://img.shields.io/github/stars/FlagAlpha/Llama2-Chinese.svg)
   * 简介：该项目专注于Llama2模型在中文方面的优化和上层建设，基于大规模中文数据，从预训练开始对Llama2模型进行中文能力的持续迭代升级。
 * OpenChineseLLaMA：
@@ -172,7 +172,7 @@
     ![](https://img.shields.io/github/stars/OpenLMLab/OpenChineseLLaMA.svg)
   * 简介：基于 LLaMA-7B 经过中文数据集增量预训练产生的中文大语言模型基座，对比原版 LLaMA，该模型在中文理解能力和生成能力方面均获得较大提升，在众多下游任务中均取得了突出的成绩。
 * BELLE：
-  * 地址：<https://github.com/LianjiaTech/BELLE> ⭐ 8,271 | 🐛 106 | 🌐 HTML | 📅 2024-10-16
+  * 地址：<https://github.com/LianjiaTech/BELLE> ⭐ 8,269 | 🐛 106 | 🌐 HTML | 📅 2024-10-16
     ![](https://img.shields.io/github/stars/LianjiaTech/BELLE.svg)
   * 简介：开源了基于BLOOMZ和LLaMA优化后的一系列模型，同时包括训练数据、相关模型、训练代码、应用场景等，也会持续评估不同训练数据、训练算法等对模型表现的影响。
 * Panda：
@@ -184,7 +184,7 @@
     ![](https://img.shields.io/github/stars/OptimalScale/LMFlow.svg)
   * 简介：Robin (罗宾)是香港科技大学LMFlow团队开发的中英双语大语言模型。仅使用180K条数据微调得到的Robin第二代模型，在Huggingface榜单上达到了第一名的成绩。LMFlow支持用户快速训练个性化模型，仅需单张3090和5个小时即可微调70亿参数定制化模型。
 * Fengshenbang-LM：
-  * 地址：<https://github.com/IDEA-CCNL/Fengshenbang-LM> ⭐ 4,122 | 🐛 107 | 🌐 Python | 📅 2026-06-08
+  * 地址：<https://github.com/IDEA-CCNL/Fengshenbang-LM> ⭐ 4,123 | 🐛 107 | 🌐 Python | 📅 2026-06-08
     ![](https://img.shields.io/github/stars/IDEA-CCNL/Fengshenbang-LM.svg)
   * 简介：Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，该项目开源了姜子牙通用大模型V1，是基于LLaMa的130亿参数的大规模预训练模型，具备翻译，编程，文本分类，信息抽取，摘要，文案生成，常识问答和数学计算等能力。除姜子牙系列模型之外，该项目还开源了太乙、二郎神系列等模型。
 * BiLLa：
@@ -192,19 +192,19 @@
     ![](https://img.shields.io/github/stars/Neutralzz/BiLLa.svg)
   * 简介：该项目开源了推理能力增强的中英双语LLaMA模型。模型的主要特性有：较大提升LLaMA的中文理解能力，并尽可能减少对原始LLaMA英文能力的损伤；训练过程增加较多的任务型数据，利用ChatGPT生成解析，强化模型理解任务求解逻辑；全量参数更新，追求更好的生成效果。
 * Moss：
-  * 地址：<https://github.com/OpenLMLab/MOSS> ⭐ 12,241 | 🐛 243 | 🌐 Python | 📅 2026-09-06
+  * 地址：<https://github.com/OpenLMLab/MOSS> ⭐ 12,243 | 🐛 243 | 🌐 Python | 📅 2026-09-06
     ![](https://img.shields.io/github/stars/OpenLMLab/MOSS.svg)
   * 简介：支持中英双语和多种插件的开源对话语言模型，MOSS基座语言模型在约七千亿中英文以及代码单词上预训练得到，后续经过对话指令微调、插件增强学习和人类偏好训练具备多轮对话能力及使用多种插件的能力。
 * Luotuo-Chinese-LLM：
-  * 地址：<https://github.com/LC1332/Luotuo-Chinese-LLM> ⭐ 3,588 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2023-09-03
+  * 地址：<https://github.com/LC1332/Luotuo-Chinese-LLM> ⭐ 3,587 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2023-09-03
     ![](https://img.shields.io/github/stars/LC1332/Luotuo-Chinese-LLM.svg)
   * 简介：囊括了一系列中文大语言模型开源项目，包含了一系列基于已有开源模型（ChatGLM, MOSS, LLaMA）进行二次微调的语言模型，指令微调数据集等。
 * Linly：
-  * 地址：<https://github.com/CVI-SZU/Linly> ⭐ 3,039 | 🐛 109 | 🌐 Python | 📅 2024-04-14
+  * 地址：<https://github.com/CVI-SZU/Linly> ⭐ 3,038 | 🐛 109 | 🌐 Python | 📅 2024-04-14
     ![](https://img.shields.io/github/stars/CVI-SZU/Linly.svg)
   * 简介：提供中文对话模型 Linly-ChatFlow 、中文基础模型 Linly-Chinese-LLaMA 及其训练数据。 中文基础模型以 LLaMA 为底座，利用中文和中英平行增量预训练。项目汇总了目前公开的多语言指令数据，对中文模型进行了大规模指令跟随训练，实现了 Linly-ChatFlow 对话模型。
 * Firefly：
-  * 地址：<https://github.com/yangjianxin1/Firefly> ⭐ 6,650 | 🐛 211 | 🌐 Python | 📅 2024-10-24
+  * 地址：<https://github.com/yangjianxin1/Firefly> ⭐ 6,649 | 🐛 211 | 🌐 Python | 📅 2024-10-24
     ![](https://img.shields.io/github/stars/yangjianxin1/Firefly.svg)
   * 简介：Firefly(流萤) 是一个开源的中文大语言模型项目，开源包括数据、微调代码、多个基于Bloom、baichuan等微调好的模型等；支持全量参数指令微调、QLoRA低成本高效指令微调、LoRA指令微调；支持绝大部分主流的开源大模型，如百川baichuan、Ziya、Bloom、LLaMA等。持lora与base model进行权重合并，推理更便捷。
 * ChatYuan
@@ -288,7 +288,7 @@
     ![](https://img.shields.io/github/stars/OrionStarAI/OrionStar-Yi-34B-Chat.svg)
   * 簡介：OrionStar-Yi-34B-Chat 是猎户星空基于零一万物开源的Yi-34B模型，使用 15W+ 的高质量语料训练而来微调大模型，旨在为大模型社区用户提供卓越的交互体验。
 * MiniCPM
-  * 地址：<https://github.com/OpenBMB/MiniCPM> ⭐ 10,605 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2026-09-08
+  * 地址：<https://github.com/OpenBMB/MiniCPM> ⭐ 10,709 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-09-08
     ![](https://img.shields.io/github/stars/OpenBMB/MiniCPM.svg)
   * 简介：MiniCPM 是面壁智能与清华大学自然语言处理实验室共同开源的系列端侧大模型，主体语言模型 MiniCPM-2B 仅有 24亿（2.4B）的非词嵌入参数量, 总计2.7B参数量。
 * Mengzi3
@@ -338,18 +338,18 @@
 
 * MiniCPM-V
 
-  * 地址：<https://github.com/OpenBMB/MiniCPM-V> ⭐ 26,324 | 🐛 58 | 🌐 Python | 📅 2026-09-08
+  * 地址：<https://github.com/OpenBMB/MiniCPM-V> ⭐ 26,331 | 🐛 59 | 🌐 Python | 📅 2026-09-08
     ![](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V.svg)
   * 简介：面向图文理解的端侧多模态大模型系列。包括MiniCPM-V 2/2.6等系列，参数量包括2B，8B等，2B多模态综合性能超越 Yi-VL 34B、CogVLM-Chat 17B、Qwen-VL-Chat 10B 等更大参数规模的模型， 8B，单图、多图和视频理解性能超越了 GPT-4V。
 
 * Qwen-VL
 
-  * 地址：<https://github.com/QwenLM/Qwen-VL> ⭐ 6,725 | 🐛 324 | 🌐 Python | 📅 2024-08-07
+  * 地址：<https://github.com/QwenLM/Qwen-VL> ⭐ 6,724 | 🐛 324 | 🌐 Python | 📅 2024-08-07
     ![](https://img.shields.io/github/stars/QwenLM/Qwen-VL.svg)
   * 简介：是阿里云研发的大规模视觉语言模型，可以以图像、文本、检测框作为输入，并以文本和检测框作为输出。特点包括：强大的性能：在四大类多模态任务的标准英文测评中上均取得同等通用模型大小下最好效果；多语言对话模型：天然支持英文、中文等多语言对话，端到端支持图片里中英双语的长文本识别；多图交错对话：支持多图输入和比较，指定图片问答，多图文学创作等；首个支持中文开放域定位的通用模型：通过中文开放域语言表达进行检测框标注；细粒度识别和理解：相比于目前其它开源LVLM使用的224分辨率，Qwen-VL是首个开源的448分辨率的LVLM模型。更高分辨率可以提升细粒度的文字识别、文档问答和检测框标注。
 
 * InternVL/1.5/2.0
-  * 地址：<https://github.com/OpenGVLab/InternVL> ⭐ 10,150 | 🐛 315 | 🌐 Python | 📅 2025-09-22
+  * 地址：<https://github.com/OpenGVLab/InternVL> ⭐ 10,155 | 🐛 315 | 🌐 Python | 📅 2025-09-22
     ![](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg)
   * 简介：开源多模态大模型，也是国内首个在MMMU（多学科问答）上突破60的模型。数学基准MathVista的测试中、书生·万象的得分为66.3%，显著高于其他闭源商业模型和开源模型。在通用图表基准ChartQA、文档类基准DocVQA、信息图表类基准InfographicVQA中以及通用视觉问答基准MMBench (v1.1)中，书生万象也取得了最先进（SOTA）的表现。
 
@@ -375,7 +375,7 @@
 
 * BenTsao：
 
-  * 地址：<https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese> ⭐ 4,990 | 🐛 28 | 🌐 Python | 📅 2026-07-04
+  * 地址：<https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese> ⭐ 4,991 | 🐛 28 | 🌐 Python | 📅 2026-07-04
     ![](https://img.shields.io/github/stars/SCIR-HI/Huatuo-Llama-Med-Chinese.svg)
   * 简介：开源了经过中文医学指令精调/指令微调(Instruct-tuning) 的LLaMA-7B模型。通过医学知识图谱和GPT3.5 API构建了中文医学指令数据集，并在此基础上对LLaMA进行了指令微调，提高了LLaMA在医疗领域的问答效果。
 
@@ -411,7 +411,7 @@
 
 * XrayGLM，首个会看胸部X光片的中文多模态医学大模型：
 
-  * 地址：<https://github.com/WangRongsheng/XrayGLM> ⭐ 1,084 | 🐛 28 | 🌐 Python | 📅 2024-11-20
+  * 地址：<https://github.com/WangRongsheng/XrayGLM> ⭐ 1,085 | 🐛 28 | 🌐 Python | 📅 2024-11-20
     ![](https://img.shields.io/github/stars/WangRongsheng/XrayGLM.svg)
   * 简介：该项目为促进中文领域医学多模态大模型的研究发展，发布了XrayGLM数据集及模型，其在医学影像诊断和多轮交互对话上显示出了非凡的潜力。
 
@@ -493,19 +493,19 @@
 
 * LaWGPT：基于中文法律知识的大语言模型
 
-  * 地址：<https://github.com/pengxiao-song/LaWGPT> ⭐ 6,061 | 🐛 87 | 🌐 Python | 📅 2024-06-11
+  * 地址：<https://github.com/pengxiao-song/LaWGPT> ⭐ 6,060 | 🐛 87 | 🌐 Python | 📅 2024-06-11
     ![](https://img.shields.io/github/stars/pengxiao-song/LaWGPT.svg)
   * 简介：该系列模型在通用中文基座模型（如 Chinese-LLaMA、ChatGLM 等）的基础上扩充法律领域专有词表、大规模中文法律语料预训练，增强了大模型在法律领域的基础语义理解能力。在此基础上，构造法律领域对话问答数据集、中国司法考试数据集进行指令精调，提升了模型对法律内容的理解和执行能力。
 
 * LexiLaw：中文法律大模型
 
-  * 地址：<https://github.com/CSHaitao/LexiLaw> ⭐ 1,043 | 🐛 53 | 🌐 Python | 📅 2026-03-12
+  * 地址：<https://github.com/CSHaitao/LexiLaw> ⭐ 1,044 | 🐛 53 | 🌐 Python | 📅 2026-03-12
     ![](https://img.shields.io/github/stars/CSHaitao/LexiLaw.svg)
   * 简介：LexiLaw 是一个基于 ChatGLM-6B微调的中文法律大模型，通过在法律领域的数据集上进行微调。该模型旨在为法律从业者、学生和普通用户提供准确、可靠的法律咨询服务，包括具体法律问题的咨询，还是对法律条款、案例解析、法规解读等方面的查询。
 
 * Lawyer LLaMA：中文法律LLaMA
 
-  * 地址：<https://github.com/AndrewZhe/lawyer-llama> ⭐ 1,000 | 🐛 42 | 🌐 Python | 📅 2024-08-28
+  * 地址：<https://github.com/AndrewZhe/lawyer-llama> ⭐ 1,000 | 🐛 43 | 🌐 Python | 📅 2024-08-28
     ![](https://img.shields.io/github/stars/AndrewZhe/lawyer-llama.svg)
   * 简介：开源了一系列法律领域的指令微调数据和基于LLaMA训练的中文法律大模型的参数。Lawyer LLaMA 首先在大规模法律语料上进行了continual pretraining。在此基础上，借助ChatGPT收集了一批对中国国家统一法律职业资格考试客观题（以下简称法考）的分析和对法律咨询的回答，利用收集到的数据对模型进行指令微调，让模型习得将法律知识应用到具体场景中的能力。
 
@@ -569,13 +569,13 @@
 
 * FinGPT
 
-  * 地址：<https://github.com/AI4Finance-Foundation/FinGPT> ⭐ 21,224 | 🐛 83 | 🌐 Jupyter Notebook | 📅 2026-09-08
+  * 地址：<https://github.com/AI4Finance-Foundation/FinGPT> ⭐ 21,230 | 🐛 83 | 🌐 Jupyter Notebook | 📅 2026-09-08
     ![](https://img.shields.io/github/stars/AI4Finance-Foundation/FinGPT.svg)
   * 简介：该项目开源了多个金融大模型，包括ChatGLM-6B/ChatGLM2-6B+LoRA和LLaMA-7B+LoRA的金融大模型，收集了包括金融新闻、社交媒体、财报等中英文训练数据。
 
 * DISC-FinLLM
 
-  * 地址：<https://github.com/FudanDISC/DISC-FinLLM> ⭐ 895 | 🐛 22 | 🌐 Python | 📅 2023-11-01
+  * 地址：<https://github.com/FudanDISC/DISC-FinLLM> ⭐ 896 | 🐛 22 | 🌐 Python | 📅 2023-11-01
     ![](https://img.shields.io/github/stars/FudanDISC/DISC-FinLLM.svg)
   * 简介：该项目由复旦大学数据智能与社会计算实验室 (Fudan-DISC) 开发并开源，项目中开源的资源包括：DISC-FinLLM-SFT训练数据样本，DISC-FinLLM模型参数（基于Baichuan-13B-Chat训练），DISC-Fin-Eval-Benchmark等。
 
@@ -593,7 +593,7 @@
 
 * 桃李（Taoli）：
 
-  * 地址：<https://github.com/blcuicall/taoli> ⭐ 195 | 🐛 6 | 🌐 Python | 📅 2023-11-13
+  * 地址：<https://github.com/blcuicall/taoli> ⭐ 194 | 🐛 6 | 🌐 Python | 📅 2023-11-13
     ![](https://img.shields.io/github/stars/blcuicall/taoli.svg)
   * 简介：一个在国际中文教育领域数据上进行了额外训练的模型。项目基于目前国际中文教育领域流通的500余册国际中文教育教材与教辅书、汉语水平考试试题以及汉语学习者词典等，构建了国际中文教育资源库，构造了共计 88000 条的高质量国际中文教育问答数据集，并利用收集到的数据对模型进行指令微调，让模型习得将知识应用到具体场景中的能力。
 
@@ -651,7 +651,7 @@
 ##### 网络安全
 
 * SecGPT
-  * 地址：<https://github.com/Clouditera/secgpt> ⭐ 3,103 | 🐛 52 | 🌐 Python | 📅 2025-06-25
+  * 地址：<https://github.com/Clouditera/secgpt> ⭐ 3,102 | 🐛 52 | 🌐 Python | 📅 2025-06-25
     ![](https://img.shields.io/github/stars/Clouditera/secgpt.svg)
   * 简介：开项目开源了网络安全大模型，该模型基于Baichuan-13B采用Lora做预训练和SFT训练，此外该项目还开源了相关预训练和指令微调数据集等资源。
 
@@ -662,7 +662,7 @@
     ![](https://img.shields.io/github/stars/zhiweihu1103/AgriMa.svg)
   * 简介：首个中文开源农业大模型是由山西大学、山西农业大学与The Fin AI联合研发，以Baichuan为底座，基于海量有监督农业领域相关数据微调，具备广泛的农业知识和智能分析能力，该模型旨在为农业领域提供全面而高效的信息处理和决策支持。
 * 稷丰（AgriAgent）：
-  * 简介：首个开源中文农业多模态大模型是由山西农业大学研发，以[MiniCPM-Llama3-V 2.5](https://github.com/OpenBMB/MiniCPM-V) ⭐ 26,324 | 🐛 58 | 🌐 Python | 📅 2026-09-08为底座，能够从图像、文本、气象数据等多源信息中提取有用信息，为农业生产提供全面、精准的智能化解决方案。我们致力于将稷丰应用于作物健康监测、病虫害识别、土壤肥力分析、农田管理优化等多个方面，帮助农民提升生产效率，减少资源浪费，促进农业的可持续发展。
+  * 简介：首个开源中文农业多模态大模型是由山西农业大学研发，以[MiniCPM-Llama3-V 2.5](https://github.com/OpenBMB/MiniCPM-V) ⭐ 26,331 | 🐛 59 | 🌐 Python | 📅 2026-09-08为底座，能够从图像、文本、气象数据等多源信息中提取有用信息，为农业生产提供全面、精准的智能化解决方案。我们致力于将稷丰应用于作物健康监测、病虫害识别、土壤肥力分析、农田管理优化等多个方面，帮助农民提升生产效率，减少资源浪费，促进农业的可持续发展。
   * 地址：<https://github.com/zhiweihu1103/AgriAgent> ⭐ 126 | 🐛 2 | 🌐 Python | 📅 2026-03-19
     ![](https://img.shields.io/github/stars/zhiweihu1103/AgriAgent.svg)
 
@@ -670,7 +670,7 @@
 
 * langchain-ChatGLM：
 
-  * 地址：<https://github.com/imClumsyPanda/langchain-ChatGLM> ⭐ 38,624 | 🐛 27 | 🌐 Python | 📅 2025-11-10
+  * 地址：<https://github.com/imClumsyPanda/langchain-ChatGLM> ⭐ 38,629 | 🐛 28 | 🌐 Python | 📅 2025-11-10
     ![](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM.svg)
   * 简介：基于本地知识库的问答应用，目标期望建立一套对中文场景与开源模型支持友好、可离线运行的知识库问答解决方案。建立了全流程可使用开源模型实现的本地知识库问答应用。现已支持使用 ChatGLM-6B 等大语言模型直接接入，或通过 fastchat api 形式接入 Vicuna, Alpaca, LLaMA, Koala, RWKV 等模型。
 
@@ -700,13 +700,13 @@
 
 * DemoGPT：
 
-  * 地址：<https://github.com/melih-unsal/DemoGPT> ⭐ 1,907 | 🐛 10 | 🌐 Python | 📅 2026-04-01
+  * 地址：<https://github.com/melih-unsal/DemoGPT> ⭐ 1,908 | 🐛 10 | 🌐 Python | 📅 2026-04-01
     ![](https://img.shields.io/github/stars/melih-unsal/DemoGPT.svg)
   * 简介：⚡ DemoGPT 使您只需使用提示即可创建快速演示。 ⚡
 
 * ChatDev：
 
-  * 地址：<https://github.com/OpenBMB/ChatDev> ⭐ 34,238 | 🐛 72 | 🌐 Python | 📅 2026-07-24
+  * 地址：<https://github.com/OpenBMB/ChatDev> ⭐ 34,252 | 🐛 71 | 🌐 Python | 📅 2026-07-24
     ![](https://img.shields.io/github/stars/OpenBMB/ChatDev.svg)
   * 简介：ChatDev是一家虚拟软件公司，通过担任不同角色的各种智能代理进行运营，包括首席执行官、首席技术官、程序员、测试员等。 这些代理形成了一个多代理组织结构，并因“通过编程彻底改变数字世界”的使命而团结在一起。 ChatDev中的代理通过参加专门的功能研讨会进行协作，包括设计、编码、测试和记录等任务。
 
@@ -714,13 +714,13 @@
 
 * Lumen：
 
-  * 地址：<https://github.com/omxyz/lumen> ⭐ 56 | 🐛 15 | 🌐 TypeScript | 📅 2026-03-30
+  * 地址：<https://github.com/omxyz/lumen> ⭐ 57 | 🐛 15 | 🌐 TypeScript | 📅 2026-03-30
     ![](https://img.shields.io/github/stars/omxyz/lumen.svg)
   * 简介：一个视觉优先的浏览器智能体，支持自修复确定性重放。通过 CDP（Chrome DevTools Protocol）实现截图→模型→操作的循环，支持多模型（Anthropic、Google）。
 
 * wenda：
 
-  * 地址：<https://github.com/wenda-LLM/wenda> ⭐ 6,154 | 🐛 56 | 🌐 JavaScript | 📅 2025-01-23
+  * 地址：<https://github.com/wenda-LLM/wenda> ⭐ 6,153 | 🐛 56 | 🌐 JavaScript | 📅 2025-01-23
     ![](https://img.shields.io/github/stars/wenda-LLM/wenda.svg)
   * 简介：一个LLM调用平台。为小模型外挂知识库查找和设计自动执行动作，实现不亚于于大模型的生成能力。
 
@@ -738,7 +738,7 @@
 
 * fastllm：
 
-  * 地址：<https://github.com/ztxz16/fastllm> ⭐ 4,989 | 🐛 317 | 🌐 C++ | 📅 2026-09-08
+  * 地址：<https://github.com/ztxz16/fastllm> ⭐ 4,996 | 🐛 319 | 🌐 C++ | 📅 2026-09-09
     ![](https://img.shields.io/github/stars/ztxz16/fastllm.svg)
   * 简介：纯c++的全平台llm加速库，chatglm-6B级模型单卡可达10000+token / s，支持moss, chatglm, baichuan模型，手机端流畅运行。
 
@@ -750,13 +750,13 @@
 
 * GPT Academic：
 
-  * 地址：<https://github.com/binary-husky/gpt_academic> ⭐ 71,308 | 🐛 330 | 🌐 Python | 📅 2026-01-25
+  * 地址：<https://github.com/binary-husky/gpt_academic> ⭐ 71,314 | 🐛 330 | 🌐 Python | 📅 2026-01-25
     ![](https://img.shields.io/github/stars/binary-husky/gpt_academic.svg)
   * 简介：为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古等。
 
 * ChatALL：
 
-  * 地址：<https://github.com/sunner/ChatALL> ⭐ 16,492 | 🐛 231 | 🌐 JavaScript | 📅 2026-09-06
+  * 地址：<https://github.com/sunner/ChatALL> ⭐ 16,494 | 🐛 233 | 🌐 JavaScript | 📅 2026-09-09
     ![](https://img.shields.io/github/stars/sunner/ChatALL.svg)
   * 简介：ChatALL（中文名：齐叨）可以把一条指令同时发给多个 AI，可以帮助用户发现最好的回答。
 
@@ -786,7 +786,7 @@
 
 * LazyLLM
 
-  * 地址：<https://github.com/LazyAGI/LazyLLM> ⭐ 3,880 | 🐛 46 | 🌐 Python | 📅 2026-09-08
+  * 地址：<https://github.com/LazyAGI/LazyLLM> ⭐ 3,881 | 🐛 46 | 🌐 Python | 📅 2026-09-09
     ![](https://img.shields.io/github/stars/LazyAGI/LazyLLM.svg)
   * 简介：LazyLLM是一款低代码构建多Agent大模型应用的开发工具，协助开发者用极低的成本构建复杂的AI应用，并可以持续的迭代优化效果。LazyLLM提供了更为灵活的应用功能定制方式，并实现了一套轻量级网管机制来支持一键部署多Agent应用，支持流式输出，兼容多个Iaas平台，且支持对应用中的模型进行持续微调。
 
@@ -802,7 +802,7 @@
 
 * MNBVC
 
-  * 地址：<https://github.com/esbatmop/MNBVC> ⭐ 4,273 | 🐛 22 | 📅 2026-08-28
+  * 地址：<https://github.com/esbatmop/MNBVC> ⭐ 4,272 | 🐛 22 | 📅 2026-08-28
     ![](https://img.shields.io/github/stars/esbatmop/MNBVC.svg)
   * 数据集说明：超大规模中文语料集，不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。数据均来源于互联网收集，且在持续更新中。
 
@@ -813,7 +813,7 @@
 
 * CLUECorpus2020
 
-  * 地址：<https://github.com/CLUEbenchmark/CLUECorpus2020> ⭐ 1,020 | 🐛 10 | 📅 2026-02-06
+  * 地址：<https://github.com/CLUEbenchmark/CLUECorpus2020> ⭐ 1,019 | 🐛 10 | 📅 2026-02-06
     ![](https://img.shields.io/github/stars/CLUEbenchmark/CLUECorpus2020.svg)
   * 数据集说明：通过对Common Crawl的中文部分进行语料清洗，最终得到100GB的高质量中文预训练语料，可直接用于预训练、语言模型或语言生成任务以及专用于简体中文NLP任务的小词表。
 
@@ -878,7 +878,7 @@
 
 * BELLE-data-1.5M：
 
-  * 地址：<https://github.com/LianjiaTech/BELLE/tree/main/data/1.5M> ⭐ 8,271 | 🐛 106 | 🌐 HTML | 📅 2024-10-16
+  * 地址：<https://github.com/LianjiaTech/BELLE/tree/main/data/1.5M> ⭐ 8,269 | 🐛 106 | 🌐 HTML | 📅 2024-10-16
     ![](https://img.shields.io/github/stars/LianjiaTech/BELLE.svg)
   * 数据集说明：通过self-instruct生成，使用了中文种子任务，以及openai的text-davinci-003接口,涉及175个种子任务
 
@@ -896,7 +896,7 @@
 
 * Huatuo-26M：
 
-  * 地址：<https://github.com/FreedomIntelligence/Huatuo-26M> ⭐ 348 | 🐛 4 | 📅 2024-03-14
+  * 地址：<https://github.com/FreedomIntelligence/Huatuo-26M> ⭐ 349 | 🐛 4 | 📅 2024-03-14
     ![](https://img.shields.io/github/stars/FreedomIntelligence/Huatuo-26M.svg)
   * 数据集说明：Huatuo-26M 是一个中文医疗问答数据集，此数据集包含了超过2600万个高质量的医疗问答对，涵盖了各种疾病、症状、治疗方式、药品信息等多个方面。Huatuo-26M 是研究人员、开发者和企业为了提高医疗领域的人工智能应用，如聊天机器人、智能诊断系统等需要的重要资源。
 
@@ -974,13 +974,13 @@
 
 * DeepSpeed Chat：
 
-  * 地址：<https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat> ⭐ 43,080 | 🐛 1,394 | 🌐 Python | 📅 2026-09-08
+  * 地址：<https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat> ⭐ 43,084 | 🐛 1,395 | 🌐 Python | 📅 2026-09-09
     ![](https://img.shields.io/github/stars/microsoft/DeepSpeed.svg)
   * 简介：该项目提供了一键式RLHF训练框架，只需一个脚本即可实现多个训练步骤，包括SFT，奖励模型微调和基于人类反馈的强化学习（RLHF），此外还实现了DeepSpeed HE，统一的高效混合引擎，达到训练和推理引擎之间的过渡是无缝的。
 
 * LLaMA Efficient Tuning：
 
-  * 地址：<https://github.com/hiyouga/LLaMA-Efficient-Tuning> ⭐ 74,652 | 🐛 1,147 | 🌐 Python | 📅 2026-09-08
+  * 地址：<https://github.com/hiyouga/LLaMA-Efficient-Tuning> ⭐ 74,675 | 🐛 1,146 | 🌐 Python | 📅 2026-09-09
     ![](https://img.shields.io/github/stars/hiyouga/LLaMA-Efficient-Tuning.svg)
   * 简介：该项目提供了易于使用的基于PEFT的LLaMA微调框架，实现了包括全参数，LoRA，QLoRA等的预训练，指令微调和RLHF，并支持LLaMA, BLOOM, Falcon, Baichuan, InternLM等底座模型。
 
@@ -1000,7 +1000,7 @@
 
 * vLLM：
 
-  * 地址：<https://github.com/vllm-project/vllm> ⭐ 91,270 | 🐛 7,749 | 🌐 Python | 📅 2026-09-08
+  * 地址：<https://github.com/vllm-project/vllm> ⭐ 91,365 | 🐛 7,779 | 🌐 Python | 📅 2026-09-09
     ![](https://img.shields.io/github/stars/vllm-project/vllm.svg)
   * 简介：适用于大批量Prompt输入，并对推理速度要求高的场景。吞吐量比HuggingFace Transformers高14x-24倍，比HuggingFace Text Generation Inference（TGI）高2.2x-2.5倍，实现了Continuous batching和PagedAttention等技巧。但该框架对适配器（LoRA、QLoRA等）的支持不友好且缺少权重量化。
 
@@ -1018,31 +1018,31 @@
 
 * CTranslate2
 
-  * 地址：<https://github.com/OpenNMT/CTranslate2> ⭐ 4,666 | 🐛 282 | 🌐 C++ | 📅 2026-08-31
+  * 地址：<https://github.com/OpenNMT/CTranslate2> ⭐ 4,667 | 🐛 283 | 🌐 C++ | 📅 2026-08-31
     ![](https://img.shields.io/github/stars/OpenNMT/CTranslate2.svg)
   * 简介：基于C++和python的推理框架，支持在CPU和GPU上并行和异步执行，且支持prompt缓存及量化。但缺少对适配器（LoRA、QLoRA等）的支持。
 
 * OpenLLM
 
-  * 地址：<https://github.com/bentoml/OpenLLM> ⭐ 12,527 | 🐛 17 | 🌐 Python | 📅 2026-09-07
+  * 地址：<https://github.com/bentoml/OpenLLM> ⭐ 12,526 | 🐛 17 | 🌐 Python | 📅 2026-09-07
     ![](https://img.shields.io/github/stars/bentoml/OpenLLM.svg)
   * 简介：支持将要部署的LLM连接多个适配器，可以实现只使用一个底座模型来执行多个特定的任务；支持量化推理和LangChain集成。但对批处理和分布式推理的支持相对不友好。
 
 * MNN LLM
 
-  * 地址：<https://github.com/alibaba/MNN> ⭐ 16,045 | 🐛 52 | 🌐 C++ | 📅 2026-09-04
+  * 地址：<https://github.com/alibaba/MNN> ⭐ 16,052 | 🐛 60 | 🌐 C++ | 📅 2026-09-09
     ![](https://github.com/alibaba/MNN.svg)
   * 简介：主要支持不同端侧设备上高效推理，包括移动设备（iOS或Android设备）、PC设备等的高效推理。支持CPU/GPU加速，支持加载多个Lora模型。使用教程：<https://mnn-docs.readthedocs.io/en/latest/transformers/llm.html>
 
 * MLC LLM
 
-  * 地址：<https://github.com/mlc-ai/mlc-llm> ⭐ 23,137 | 🐛 341 | 🌐 Python | 📅 2026-08-17
+  * 地址：<https://github.com/mlc-ai/mlc-llm> ⭐ 23,139 | 🐛 342 | 🌐 Python | 📅 2026-08-17
     ![](https://img.shields.io/github/stars/mlc-ai/mlc-llm.svg)
   * 简介：支持不同平台上的不同设备部署推理，包括移动设备（iOS或Android设备等）的高效推理，压缩等。但对大规模批量调用相对不友好。
 
 * LightLLM：
 
-  * 地址：<https://github.com/ModelTC/lightllm> ⭐ 4,276 | 🐛 152 | 🌐 Python | 📅 2026-09-08
+  * 地址：<https://github.com/ModelTC/lightllm> ⭐ 4,276 | 🐛 159 | 🌐 Python | 📅 2026-09-09
     ![](https://img.shields.io/github/stars/ModelTC/lightllm.svg)
   * 简介：一个基于 Python 的 LLM（大型语言模型）推理和服务框架，该框架采用轻量级设计、易于扩展和高速性能，LightLLM引入了一种更细粒度的kv cache管理算法 TokenAttention，并设计了一个与TokenAttention高效配合的Efficient Router调度实现。在TokenAttention 和 Efficient Router的相互作用下，LightLLM在大部分场景下都能获得比vLLM 和 Text Generation Inference 得到更高的吞吐，部分场景下可以得到4倍左右的性能提升。
 
@@ -1054,7 +1054,7 @@
 
 * LMDeploy:
 
-  * 地址：<https://github.com/InternLM/lmdeploy> ⭐ 8,049 | 🐛 606 | 🌐 Python | 📅 2026-09-08
+  * 地址：<https://github.com/InternLM/lmdeploy> ⭐ 8,051 | 🐛 603 | 🌐 Python | 📅 2026-09-09
     ![](https://img.shields.io/github/stars/InternLM/lmdeploy.svg)
   * 简介：该项目支持 LLM（大语言模型）和 VL（视觉语言模型）任务在 NVIDIA 设备上量化、推理和服务。LMDeploy 支持有状态的推理，可以缓存对话，记住历史。它实现了 Persistent Batch(即 Continuous Batch)，Blocked K/V Cache，动态拆分和融合，张量并行，高效的计算 kernel等重要特性。推理性能是 vLLM 的 1.8 倍以上。其 4bit 量化模型推理性能达 FP16 的 2.4 倍以上。
 
@@ -1074,7 +1074,7 @@
 
 * OpenCompass:
 
-  * 地址：<https://github.com/InternLM/opencompass> ⭐ 7,402 | 🐛 400 | 🌐 Python | 📅 2026-09-08
+  * 地址：<https://github.com/InternLM/opencompass> ⭐ 7,404 | 🐛 400 | 🌐 Python | 📅 2026-09-09
     ![](https://img.shields.io/github/stars/InternLM/opencompass.svg)
   * 简介：由上海AI实验室发布的面向大模型评测的一站式平台。主要特点包括：开源可复现；全面的能力维度：五大维度设计，提供 50+ 个数据集约 30 万题的的模型评测方案；丰富的模型支持：已支持 20+ HuggingFace 及 API 模型；分布式高效评测：一行命令实现任务分割和分布式评测，数小时即可完成千亿模型全量评测；多样化评测范式：支持零样本、小样本及思维链评测，结合标准型或对话型提示词模板；灵活化拓展。
 
@@ -1086,7 +1086,7 @@
 
 * GAOKAO-Bench:
 
-  * 地址：<https://github.com/OpenLMLab/GAOKAO-Bench> ⭐ 794 | 🐛 5 | 🌐 Python | 📅 2025-01-07
+  * 地址：<https://github.com/OpenLMLab/GAOKAO-Bench> ⭐ 793 | 🐛 5 | 🌐 Python | 📅 2025-01-07
     ![](https://img.shields.io/github/stars/OpenLMLab/GAOKAO-Bench.svg)
   * 简介：GAOKAO-bench是一个以中国高考题目为数据集，测评大模型语言理解能力、逻辑推理能力的测评框架，收集了2010-2022年全国高考卷的题目，其中包括1781道客观题和1030道主观题，构建起GAOKAO-bench的数据部分。
 
@@ -1163,7 +1163,7 @@
 
 * 面向开发者的 LLM 入门课程：
 
-  * 地址：<https://github.com/datawhalechina/prompt-engineering-for-developers> ⭐ 24,650 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2025-06-12
+  * 地址：<https://github.com/datawhalechina/prompt-engineering-for-developers> ⭐ 24,660 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2025-06-12
     ![](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers.svg)
   * 简介：一个中文版的大模型入门教程，围绕吴恩达老师的大模型系列课程展开，主要包括：吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，吴恩达《Building Systems with the ChatGPT API》课程中文版，吴恩达《LangChain for LLM Application Development》课程中文版等。
 
@@ -1174,7 +1174,7 @@
 
 * awesome-chatgpt-prompts-zh：
 
-  * 地址：<https://github.com/PlexPt/awesome-chatgpt-prompts-zh> ⭐ 62,137 | 🐛 45 | 📅 2026-04-28
+  * 地址：<https://github.com/PlexPt/awesome-chatgpt-prompts-zh> ⭐ 62,162 | 🐛 45 | 📅 2026-04-28
     ![](https://img.shields.io/github/stars/PlexPt/awesome-chatgpt-prompts-zh.svg)
   * 简介：该项目是ChatGPT中文调教指南。包括各种场景使用指南，让chatgpt知道怎么听你的话，对指令构造可以提供一些参考。
 
@@ -1187,7 +1187,7 @@
 
 * OpenAI Cookbook：
 
-  * 地址：<https://github.com/openai/openai-cookbook> ⭐ 75,854 | 🐛 284 | 🌐 Jupyter Notebook | 📅 2026-09-05
+  * 地址：<https://github.com/openai/openai-cookbook> ⭐ 75,870 | 🐛 284 | 🌐 Jupyter Notebook | 📅 2026-09-09
     ![](https://img.shields.io/github/stars/openai/openai-cookbook.svg)
   * 简介：该项目是OpenAI提供的使用OpenAI API的示例和指导，其中包括如何构建一个问答机器人等教程，能够为从业人员开发类似应用时带来指导。
 
@@ -1207,7 +1207,7 @@
 
 * llm-action：
 
-  * 地址：<https://github.com/liguodongiot/llm-action> ⭐ 25,014 | 🐛 20 | 🌐 HTML | 📅 2026-07-19
+  * 地址：<https://github.com/liguodongiot/llm-action> ⭐ 25,023 | 🐛 20 | 🌐 HTML | 📅 2026-07-19
     ![](https://img.shields.io/github/stars/liguodongiot/llm-action.svg)
   * 简介：该项目提供了一系列LLM实战的教程和代码，包括LLM的训练、推理、微调以及LLM生态相关的一些技术文章等。
 
@@ -1218,7 +1218,7 @@
 
 * 书生·浦语大模型实战营
 
-  * 地址：<https://github.com/InternLM/tutorial> ⭐ 1,972 | 🐛 817 | 🌐 Python | 📅 2026-04-22
+  * 地址：<https://github.com/InternLM/tutorial> ⭐ 1,973 | 🐛 817 | 🌐 Python | 📅 2026-04-22
   * 简介：该课程由上海人工智能实验室重磅推出。课程包括大模型微调、部署与评测全链路，目的是为广大开发者搭建大模型学习和实践开发的平台。
 
   ### 8. <a name='相关仓库'></a>相关仓库
@@ -1237,7 +1237,7 @@
 
 * Awesome-AITools：
 
-  * 地址：<https://github.com/ikaijua/Awesome-AITools> ⭐ 6,169 | 🐛 33 | 🌐 Python | 📅 2026-09-08
+  * 地址：<https://github.com/ikaijua/Awesome-AITools> ⭐ 6,171 | 🐛 35 | 🌐 Python | 📅 2026-09-09
     ![](https://img.shields.io/github/stars/ikaijua/Awesome-AITools.svg)
   * 简介：收藏整理了AI相关的实用工具、评测和相关文章。
 
@@ -1255,19 +1255,19 @@
 
 * Awesome-LLM：
 
-  * 地址：<https://github.com/Hannibal046/Awesome-LLM> ⭐ 27,339 | 🐛 450 | 📅 2025-07-31
+  * 地址：<https://github.com/Hannibal046/Awesome-LLM> ⭐ 27,348 | 🐛 452 | 📅 2025-07-31
     ![](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM.svg)
   * 简介：This repo is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
 
 * DecryptPrompt：
 
-  * 地址：<https://github.com/DSXiangLi/DecryptPrompt> ⭐ 3,438 | 🐛 0 | 📅 2026-09-08
+  * 地址：<https://github.com/DSXiangLi/DecryptPrompt> ⭐ 3,440 | 🐛 0 | 📅 2026-09-08
     ![](https://img.shields.io/github/stars/DSXiangLi/DecryptPrompt.svg)
   * 简介：总结了Prompt\&LLM论文，开源数据&模型，AIGC应用。
 
 * Awesome Pretrained Chinese NLP Models：
 
-  * 地址：<https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models> ⭐ 5,586 | 🐛 6 | 🌐 Python | 📅 2026-08-30
+  * 地址：<https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models> ⭐ 5,587 | 🐛 6 | 🌐 Python | 📅 2026-08-30
     ![](https://img.shields.io/github/stars/lonePatient/awesome-pretrained-chinese-nlp-models.svg)
   * 简介：收集了目前网上公开的一些高质量中文预训练模型。
 
@@ -1297,19 +1297,19 @@
 
 * awesome-free-chatgpt：
 
-  * 地址：<https://github.com/LiLittleCat/awesome-free-chatgpt> ⭐ 21,251 | 🐛 123 | 🌐 Python | 📅 2025-06-23
+  * 地址：<https://github.com/LiLittleCat/awesome-free-chatgpt> ⭐ 21,256 | 🐛 124 | 🌐 Python | 📅 2025-06-23
     ![](https://img.shields.io/github/stars/LiLittleCat/awesome-free-chatgpt.svg)
   * 简介：该项目收集了免费的 ChatGPT 镜像网站列表，ChatGPT的替代方案，以及构建自己的ChatGPT的教程工具等。
 
 * Awesome-Domain-LLM：
 
-  * 地址：<https://github.com/luban-agi/Awesome-Domain-LLM> ⭐ 2,584 | 🐛 1 | 📅 2023-12-26
+  * 地址：<https://github.com/luban-agi/Awesome-Domain-LLM> ⭐ 2,583 | 🐛 1 | 📅 2023-12-26
     ![](https://img.shields.io/github/stars/luban-agi/Awesome-Domain-LLM.svg)
   * 简介：该项目收集和梳理垂直领域的开源模型、数据集及评测基准。
 
 * Awesome AI Startups：
 
-  * 地址：<https://github.com/nowork-studio/awesome-ai-startups> ⭐ 79 | 🐛 43 | 📅 2026-09-08
+  * 地址：<https://github.com/nowork-studio/awesome-ai-startups> ⭐ 80 | 🐛 43 | 📅 2026-09-09
     ![](https://img.shields.io/github/stars/nowork-studio/awesome-ai-startups.svg)
   * 简介：独立开发者创建的 AI 创业产品精选列表，涵盖自筹资金、种子轮前和天使轮融资的产品。
 
@@ -1325,4 +1325,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

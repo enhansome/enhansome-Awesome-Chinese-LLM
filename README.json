@@ -15,7 +15,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/THUDM/ChatGLM-6B",
-                      "description": null,
+                      "description": "zai-org/ChatGLM-6B",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -43,7 +43,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/THUDM/ChatGLM2-6B",
-                      "description": null,
+                      "description": "zai-org/ChatGLM2-6B",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -76,7 +76,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/THUDM/ChatGLM3",
-                      "description": null,
+                      "description": "zai-org/ChatGLM3",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -104,7 +104,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/THUDM/GLM-4",
-                      "description": null,
+                      "description": "zai-org/GLM-4",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -138,7 +138,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/InternLM/InternLM-techreport",
-                      "description": null,
+                      "description": "InternLM/InternLM-techreport",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -166,7 +166,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/InternLM/InternLM",
-                      "description": null,
+                      "description": "InternLM/InternLM",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -205,7 +205,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/deepseek-ai/DeepSeek-V2",
-                      "description": null,
+                      "description": "deepseek-ai/DeepSeek-V2",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -233,7 +233,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/baichuan-inc/Baichuan-7B",
-                      "description": null,
+                      "description": "baichuan-inc/Baichuan-7B",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -272,7 +272,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/baichuan-inc/baichuan-13B",
-                      "description": null,
+                      "description": "baichuan-inc/Baichuan-13B",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -311,7 +311,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/baichuan-inc/Baichuan2",
-                      "description": null,
+                      "description": "baichuan-inc/Baichuan2",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -352,7 +352,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/xverse-ai/XVERSE-7B",
-                      "description": null,
+                      "description": "xverse-ai/XVERSE-7B",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -380,7 +380,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/xverse-ai/XVERSE-13B",
-                      "description": null,
+                      "description": "xverse-ai/XVERSE-13B",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -408,7 +408,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/xverse-ai/XVERSE-65B",
-                      "description": null,
+                      "description": "xverse-ai/XVERSE-65B",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -436,7 +436,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/xverse-ai/XVERSE-MoE-A4.2B",
-                      "description": null,
+                      "description": "xverse-ai/XVERSE-MoE-A4.2B",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -464,7 +464,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/SkyworkAI/Skywork",
-                      "description": null,
+                      "description": "SkyworkAI/Skywork",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -494,7 +494,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/01-ai/Yi",
-                      "description": null,
+                      "description": "01-ai/Yi",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -524,7 +524,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/ymcui/Chinese-LLaMA-Alpaca",
-                      "description": null,
+                      "description": "ymcui/Chinese-LLaMA-Alpaca",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -564,7 +564,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/ymcui/Chinese-LLaMA-Alpaca-2",
-                      "description": null,
+                      "description": "ymcui/Chinese-LLaMA-Alpaca-2",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -606,7 +606,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/michael-wzhu/Chinese-LlaMA2",
-                      "description": null,
+                      "description": "michael-wzhu/Chinese-LlaMA2",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -634,7 +634,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/FlagAlpha/Llama2-Chinese",
-                      "description": null,
+                      "description": "LlamaChinese/Llama-Chinese",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -669,7 +669,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/OpenLMLab/OpenChineseLLaMA",
-                      "description": null,
+                      "description": "OpenLMLab/OpenChineseLLaMA",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -697,7 +697,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/LianjiaTech/BELLE",
-                      "description": null,
+                      "description": "LianjiaTech/BELLE",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -736,7 +736,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/dandelionsllm/pandallm",
-                      "description": null,
+                      "description": "dandelionsllm/pandallm",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -764,7 +764,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/OptimalScale/LMFlow",
-                      "description": null,
+                      "description": "OptimalScale/LMFlow",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -800,7 +800,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/IDEA-CCNL/Fengshenbang-LM",
-                      "description": null,
+                      "description": "IDEA-CCNL/Fengshenbang-LM",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -836,7 +836,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/Neutralzz/BiLLa",
-                      "description": null,
+                      "description": "Neutralzz/BiLLa",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -864,7 +864,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/OpenLMLab/MOSS",
-                      "description": null,
+                      "description": "OpenMOSS/MOSS",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -899,7 +899,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/LC1332/Luotuo-Chinese-LLM",
-                      "description": null,
+                      "description": "LC1332/Luotuo-Chinese-LLM",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -912,7 +912,7 @@
                         "open_issues": 6,
                         "owner": "LC1332",
                         "repo": "Luotuo-Chinese-LLM",
-                        "stars": 3585,
+                        "stars": 3584,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:22:18.720Z"
@@ -927,7 +927,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/CVI-SZU/Linly",
-                      "description": null,
+                      "description": "CVI-SZU/Linly",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -966,7 +966,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/yangjianxin1/Firefly",
-                      "description": null,
+                      "description": "yangjianxin1/Firefly",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1015,7 +1015,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/clue-ai/ChatYuan",
-                      "description": null,
+                      "description": "clue-ai/ChatYuan",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1043,7 +1043,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/BlinkDL/ChatRWKV",
-                      "description": null,
+                      "description": "BlinkDL/ChatRWKV",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1078,7 +1078,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/OpenBMB/CPM-Bee",
-                      "description": null,
+                      "description": "OpenBMB/CPM-Bee",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1106,7 +1106,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/TigerResearch/TigerBot",
-                      "description": null,
+                      "description": "TigerResearch/TigerBot",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1140,7 +1140,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila",
-                      "description": null,
+                      "description": "FlagAI-Open/FlagAI",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1168,7 +1168,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/FlagAI-Open/Aquila2",
-                      "description": null,
+                      "description": "FlagAI-Open/Aquila2",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1200,7 +1200,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/lyogavin/Anima",
-                      "description": null,
+                      "description": "lyogavin/Anima",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1228,7 +1228,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/zjunlp/KnowLM",
-                      "description": null,
+                      "description": "zjunlp/KnowLM",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1277,7 +1277,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/ictnlp/BayLing",
-                      "description": null,
+                      "description": "BayLing-Models/BayLing",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1321,7 +1321,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/RUC-GSAI/YuLan-Chat",
-                      "description": null,
+                      "description": "RUC-GSAI/YuLan-Chat",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1351,7 +1351,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/DAMO-NLP-MT/PolyLM",
-                      "description": null,
+                      "description": "DAMO-NLP-MT/PolyLM",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1379,7 +1379,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/HIT-SCIR/huozi",
-                      "description": null,
+                      "description": "HIT-SCIR/huozi",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1412,7 +1412,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/wenge-research/YaYi",
-                      "description": null,
+                      "description": "wenge-research/YAYI",
                       "children": [],
                       "repo_info": {
                         "archived": true,
@@ -1449,7 +1449,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/wenge-research/YAYI2",
-                      "description": null,
+                      "description": "wenge-research/YAYI2",
                       "children": [],
                       "repo_info": {
                         "archived": true,
@@ -1485,7 +1485,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/IEIT-Yuan/Yuan-2.0",
-                      "description": null,
+                      "description": "IEIT-Yuan/Yuan-2.0",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1513,7 +1513,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/HIT-SCIR/Chinese-Mixtral-8x7B",
-                      "description": null,
+                      "description": "HIT-SCIR/Chinese-Mixtral-8x7B",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1546,7 +1546,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/vivo-ai-lab/BlueLM",
-                      "description": null,
+                      "description": "vivo-ai-lab/BlueLM",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1574,7 +1574,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/lightyear-turing/TuringMM-34B-Chat",
-                      "description": null,
+                      "description": "lightyear-turing/TuringMM-34B-Chat",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1602,7 +1602,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/OrionStarAI/Orion",
-                      "description": null,
+                      "description": "OrionStarAI/Orion",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1630,7 +1630,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/OrionStarAI/OrionStar-Yi-34B-Chat",
-                      "description": null,
+                      "description": "OrionStarAI/OrionStar-Yi-34B-Chat",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1658,7 +1658,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/OpenBMB/MiniCPM",
-                      "description": null,
+                      "description": "OpenBMB/MiniCPM",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1671,7 +1671,7 @@
                         "open_issues": 22,
                         "owner": "OpenBMB",
                         "repo": "MiniCPM",
-                        "stars": 11349,
+                        "stars": 11350,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:22:18.720Z"
@@ -1686,7 +1686,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/Langboat/Mengzi3",
-                      "description": null,
+                      "description": "Langboat/Mengzi3",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1714,7 +1714,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/RUC-GSAI/YuLan-Mini",
-                      "description": null,
+                      "description": "RUC-GSAI/YuLan-Mini",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1742,7 +1742,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/MiniMax-AI/MiniMax-01",
-                      "description": null,
+                      "description": "MiniMax-AI/MiniMax-01",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1785,7 +1785,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/THUDM/VisualGLM-6B",
-                      "description": null,
+                      "description": "zai-org/VisualGLM-6B",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1817,7 +1817,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/THUDM/CogVLM",
-                      "description": null,
+                      "description": "zai-org/CogVLM",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1851,7 +1851,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/airaria/Visual-Chinese-LLaMA-Alpaca",
-                      "description": null,
+                      "description": "airaria/Visual-Chinese-LLaMA-Alpaca",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1888,7 +1888,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/LinkSoul-AI/LLaSM",
-                      "description": null,
+                      "description": "LinkSoul-AI/LLaSM",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1916,7 +1916,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/OpenBMB/VisCPM",
-                      "description": null,
+                      "description": "OpenBMB/VisCPM",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1949,7 +1949,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/OpenBMB/MiniCPM-V",
-                      "description": null,
+                      "description": "OpenBMB/MiniCPM-V",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1982,7 +1982,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/QwenLM/Qwen-VL",
-                      "description": null,
+                      "description": "QwenLM/Qwen-VL",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2013,7 +2013,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/OpenGVLab/InternVL",
-                      "description": null,
+                      "description": "OpenGVLab/InternVL",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2054,7 +2054,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/MiniMax-AI/MiniMax-01",
-                      "description": null,
+                      "description": "MiniMax-AI/MiniMax-01",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2106,7 +2106,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/xionghonglin/DoctorGLM",
-                          "description": null,
+                          "description": "xionghonglin/DoctorGLM",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2136,7 +2136,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese",
-                          "description": null,
+                          "description": "SCIR-HI/Huatuo-Llama-Med-Chinese",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2175,7 +2175,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/scutcyr/BianQue",
-                          "description": null,
+                          "description": "scutcyr/BianQue",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2208,7 +2208,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/FreedomIntelligence/HuatuoGPT",
-                          "description": null,
+                          "description": "FreedomIntelligence/HuatuoGPT",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2236,7 +2236,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/SCIR-HI/Med-ChatGLM",
-                          "description": null,
+                          "description": "SCIR-HI/Med-ChatGLM",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2269,7 +2269,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/CMKRG/QiZhenGPT",
-                          "description": null,
+                          "description": "CMKRG/QiZhenGPT",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2306,7 +2306,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/michael-wzhu/ChatMed",
-                          "description": null,
+                          "description": "michael-wzhu/ChatMed",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2334,7 +2334,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/WangRongsheng/XrayGLM",
-                          "description": null,
+                          "description": "WangRongsheng/XrayGLM",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2369,7 +2369,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/qiuhuachuan/smile",
-                          "description": null,
+                          "description": "qiuhuachuan/smile",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2397,7 +2397,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/shibing624/MedicalGPT",
-                          "description": null,
+                          "description": "shibing624/MedicalGPT",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2410,7 +2410,7 @@
                             "open_issues": 6,
                             "owner": "shibing624",
                             "repo": "MedicalGPT",
-                            "stars": 5848,
+                            "stars": 5847,
                             "topics": [
                               "chatgpt",
                               "dpo",
@@ -2433,7 +2433,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/thomas-yanxin/Sunsimiao",
-                          "description": null,
+                          "description": "X-D-Lab/Sunsimiao",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2471,7 +2471,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/michael-wzhu/ShenNong-TCM-LLM",
-                          "description": null,
+                          "description": "michael-wzhu/ShenNong-TCM-LLM",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2499,7 +2499,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/scutcyr/SoulChat",
-                          "description": null,
+                          "description": "scutcyr/SoulChat",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2532,7 +2532,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/WangRongsheng/CareGPT",
-                          "description": null,
+                          "description": "WangRongsheng/CareGPT",
                           "children": [],
                           "repo_info": {
                             "archived": true,
@@ -2567,7 +2567,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/FudanDISC/DISC-MedLLM",
-                          "description": null,
+                          "description": "FudanDISC/DISC-MedLLM",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2595,7 +2595,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/DUTIR-BioNLP/Taiyi-LLM",
-                          "description": null,
+                          "description": "DUTIR-BioNLP/Taiyi-LLM",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2626,7 +2626,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/winninghealth/WiNGPT2",
-                          "description": null,
+                          "description": "winninghealth/WiNGPT2",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2654,7 +2654,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/synlp/ChiMed-GPT",
-                          "description": null,
+                          "description": "synlp/ChiMed-GPT",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2682,7 +2682,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/X-D-Lab/MindChat",
-                          "description": null,
+                          "description": "X-D-Lab/MindChat",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2731,7 +2731,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/LiuHC0428/LAW-GPT",
-                          "description": null,
+                          "description": "LiuHC0428/LAW-GPT",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2759,7 +2759,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/pengxiao-song/LaWGPT",
-                          "description": null,
+                          "description": "pengxiao-song/LaWGPT",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2787,7 +2787,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/CSHaitao/LexiLaw",
-                          "description": null,
+                          "description": "CSHaitao/LexiLaw",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2815,7 +2815,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/AndrewZhe/lawyer-llama",
-                          "description": null,
+                          "description": "AndrewZhe/lawyer-llama",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2853,7 +2853,7 @@
                         {
                           "node_type": "item",
                           "title": "地址: https://github.com/siat-nlp/HanFei",
-                          "description": null,
+                          "description": "siat-nlp/HanFei",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2881,7 +2881,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/PKU-YuanGroup/ChatLaw",
-                          "description": null,
+                          "description": "PKU-YuanGroup/ChatLaw",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2909,7 +2909,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/davidpig/lychee_law",
-                          "description": null,
+                          "description": "davidpig/lychee_law",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2937,7 +2937,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/zhihaiLLM/wisdomInterrogatory",
-                          "description": null,
+                          "description": "zhihaiLLM/wisdomInterrogatory",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2965,7 +2965,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/irlab-sdu/fuzi.mingcha",
-                          "description": null,
+                          "description": "irlab-sdu/fuzi.mingcha",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -3003,7 +3003,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/FudanDISC/DISC-LawLLM",
-                          "description": null,
+                          "description": "FudanDISC/DISC-LawLLM",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -3043,7 +3043,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese",
-                          "description": null,
+                          "description": "jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -3082,7 +3082,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/ssymmetry/BBT-FinCUGE-Applications",
-                          "description": null,
+                          "description": "supersymmetry-technologies/BBT-FinCUGE-Applications",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -3110,7 +3110,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/Duxiaoman-DI/XuanYuan",
-                          "description": null,
+                          "description": "Duxiaoman-DI/XuanYuan",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -3138,7 +3138,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/AI4Finance-Foundation/FinGPT",
-                          "description": null,
+                          "description": "AI4Finance-Foundation/FinGPT",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -3151,7 +3151,7 @@
                             "open_issues": 52,
                             "owner": "AI4Finance-Foundation",
                             "repo": "FinGPT",
-                            "stars": 21306,
+                            "stars": 21307,
                             "topics": [
                               "chatgpt",
                               "finance",
@@ -3180,7 +3180,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/FudanDISC/DISC-FinLLM",
-                          "description": null,
+                          "description": "FudanDISC/DISC-FinLLM",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -3221,7 +3221,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/blcuicall/taoli",
-                          "description": null,
+                          "description": "blcuicall/taoli",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -3249,7 +3249,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/icalk-nlp/EduChat",
-                          "description": null,
+                          "description": "ECNU-ICALK/EduChat",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -3286,7 +3286,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/yongzhuo/chatglm-maths",
-                          "description": null,
+                          "description": "yongzhuo/chatglm-maths",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -3321,7 +3321,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/THUDM/MathGLM",
-                          "description": null,
+                          "description": "THUDM/MathGLM",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -3349,7 +3349,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/HIT-SCIR-SC/QiaoBan",
-                          "description": null,
+                          "description": "HIT-SCIR-SC/QiaoBan",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -3384,7 +3384,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/Yu-Yang-Li/StarGLM",
-                          "description": null,
+                          "description": "Yu-Yang-Li/StarWhisper",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -3421,7 +3421,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/DUOMO/TransGPT",
-                          "description": null,
+                          "description": "DUOMO/TransGPT",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -3449,7 +3449,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/gmftbyGMFTBY/science-llm",
-                          "description": null,
+                          "description": "gmftbyGMFTBY/science-llm",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -3484,7 +3484,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/Alibaba-NLP/EcomGPT",
-                          "description": null,
+                          "description": "Alibaba-NLP/EcomGPT",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -3519,7 +3519,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/Clouditera/secgpt",
-                          "description": null,
+                          "description": "Clouditera/SecGPT",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -3554,7 +3554,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/zhiweihu1103/AgriMa",
-                          "description": null,
+                          "description": "zhiweihu1103/AgriMa",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -3608,7 +3608,7 @@
                         {
                           "node_type": "item",
                           "title": "地址：https://github.com/zhiweihu1103/AgriAgent",
-                          "description": null,
+                          "description": "zhiweihu1103/AgriAgent",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -3648,7 +3648,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/imClumsyPanda/langchain-ChatGLM",
-                      "description": null,
+                      "description": "chatchat-space/Langchain-Chatchat",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -3697,7 +3697,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/thomas-yanxin/LangChain-ChatGLM-Webui",
-                      "description": null,
+                      "description": "X-D-Lab/LangChain-ChatGLM-Webui",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -3737,7 +3737,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/wordweb/langchain-ChatGLM-and-TigerBot",
-                      "description": null,
+                      "description": "wordweb/langchain-ChatGLM-and-TigerBot",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -3765,7 +3765,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/yanqiangmiffy/Chinese-LangChain",
-                      "description": null,
+                      "description": "yanqiangmiffy/Chinese-LangChain",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -3793,7 +3793,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/InternLM/lagent",
-                      "description": null,
+                      "description": "InternLM/lagent",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -3826,7 +3826,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/melih-unsal/DemoGPT",
-                      "description": null,
+                      "description": "melih-unsal/DemoGPT",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -3874,7 +3874,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/OpenBMB/ChatDev",
-                      "description": null,
+                      "description": "OpenBMB/ChatDev",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -3887,7 +3887,7 @@
                         "open_issues": 81,
                         "owner": "OpenBMB",
                         "repo": "ChatDev",
-                        "stars": 34434,
+                        "stars": 34435,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:22:18.720Z"
@@ -3909,7 +3909,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/omxyz/lumen",
-                      "description": null,
+                      "description": "omxyz/lumen",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -3937,7 +3937,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/wenda-LLM/wenda",
-                      "description": null,
+                      "description": "wenda-LLM/wenda",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -3969,7 +3969,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/Jittor/JittorLLMs",
-                      "description": null,
+                      "description": "Jittor/JittorLLMs",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -3997,7 +3997,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/OptimalScale/LMFlow",
-                      "description": null,
+                      "description": "OptimalScale/LMFlow",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4033,7 +4033,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/ztxz16/fastllm",
-                      "description": null,
+                      "description": "ztxz16/fastllm",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4061,7 +4061,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/thunlp/WebCPM",
-                      "description": null,
+                      "description": "thunlp/WebCPM",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4089,7 +4089,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/binary-husky/gpt_academic",
-                      "description": null,
+                      "description": "binary-husky/gpt_academic",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4123,7 +4123,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/sunner/ChatALL",
-                      "description": null,
+                      "description": "ai-shifu/ChatALL",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4166,7 +4166,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/ypwhs/CreativeChatGLM",
-                      "description": null,
+                      "description": "ypwhs/CreativeChatGLM",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4202,7 +4202,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/soulteary/docker-llama2-chat",
-                      "description": null,
+                      "description": "soulteary/docker-llama2-chat",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4236,7 +4236,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/KevinWang676/ChatGLM2-Voice-Cloning",
-                      "description": null,
+                      "description": "KevinWang676/ChatGLM2-Voice-Cloning",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4264,7 +4264,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/pleisto/flappy",
-                      "description": null,
+                      "description": "pleisto/flappy",
                       "children": [],
                       "repo_info": {
                         "archived": true,
@@ -4300,7 +4300,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/LazyAGI/LazyLLM",
-                      "description": null,
+                      "description": "LazyAGI/LazyLLM",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4343,7 +4343,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/memfreeme/memfree",
-                      "description": null,
+                      "description": "memfreeme/memfree",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4400,7 +4400,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/esbatmop/MNBVC",
-                      "description": null,
+                      "description": "esbatmop/MNBVC",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4436,7 +4436,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/CLUEbenchmark/CLUECorpus2020",
-                      "description": null,
+                      "description": "CLUEbenchmark/CLUECorpus2020",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4474,7 +4474,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/mobvoi/seq-monkey-data",
-                      "description": null,
+                      "description": "mobvoi/seq-monkey-data",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4509,7 +4509,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/DA-southampton/RedGPT",
-                      "description": null,
+                      "description": "DA-southampton/RedGPT",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4537,7 +4537,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/hikariming/alpaca_chinese_dataset",
-                      "description": null,
+                      "description": "hikariming/chat-dataset-baseline",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4569,7 +4569,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/PhoebusSi/Alpaca-CoT",
-                      "description": null,
+                      "description": "PhoebusSi/Alpaca-CoT",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4613,7 +4613,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/CLUEbenchmark/pCLUE",
-                      "description": null,
+                      "description": "CLUEbenchmark/pCLUE",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4649,7 +4649,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/LianjiaTech/BELLE/tree/main/data/1.5M",
-                      "description": null,
+                      "description": "LianjiaTech/BELLE",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4688,7 +4688,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/ydli-ai/csl",
-                      "description": null,
+                      "description": "ydli-ai/CSL",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4721,7 +4721,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/Toyhom/Chinese-medical-dialogue-data",
-                      "description": null,
+                      "description": "Toyhom/Chinese-medical-dialogue-data",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4749,7 +4749,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/FreedomIntelligence/Huatuo-26M",
-                      "description": null,
+                      "description": "FreedomIntelligence/Huatuo-26M",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4777,7 +4777,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM",
-                      "description": null,
+                      "description": "Instruction-Tuning-with-GPT-4/GPT-4-LLM",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4811,7 +4811,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/XueFuzhao/InstructionWild",
-                      "description": null,
+                      "description": "XueFuzhao/InstructionWild",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4839,7 +4839,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/PlexPt/chatgpt-corpus",
-                      "description": null,
+                      "description": "PlexPt/chatgpt-corpus",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4852,7 +4852,7 @@
                         "open_issues": 1,
                         "owner": "PlexPt",
                         "repo": "chatgpt-corpus",
-                        "stars": 970,
+                        "stars": 971,
                         "topics": [
                           "awesome",
                           "corpus",
@@ -4872,7 +4872,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/qiuhuachuan/smile",
-                      "description": null,
+                      "description": "qiuhuachuan/smile",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4907,7 +4907,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/X-PLUG/CValues",
-                      "description": null,
+                      "description": "X-PLUG/CValues",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4944,7 +4944,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM",
-                      "description": null,
+                      "description": "Instruction-Tuning-with-GPT-4/GPT-4-LLM",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -4978,7 +4978,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/OpenBMB/UltraFeedback",
-                      "description": null,
+                      "description": "OpenBMB/UltraFeedback",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -5018,7 +5018,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat",
-                  "description": null,
+                  "description": "deepspeedai/DeepSpeed",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5027,11 +5027,11 @@
                     "id": 235860204,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T23:39:32Z",
-                    "open_issues": 1486,
+                    "last_commit": "2026-10-03T01:02:16Z",
+                    "open_issues": 1487,
                     "owner": "deepspeedai",
                     "repo": "DeepSpeed",
-                    "stars": 43173,
+                    "stars": 43175,
                     "topics": [
                       "billion-parameters",
                       "compression",
@@ -5060,7 +5060,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/hiyouga/LLaMA-Efficient-Tuning",
-                  "description": null,
+                  "description": "hiyouga/LlamaFactory",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5073,7 +5073,7 @@
                     "open_issues": 1171,
                     "owner": "hiyouga",
                     "repo": "LlamaFactory",
-                    "stars": 75280,
+                    "stars": 75285,
                     "topics": [
                       "agent",
                       "ai",
@@ -5109,7 +5109,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/hiyouga/ChatGLM-Efficient-Tuning",
-                  "description": null,
+                  "description": "hiyouga/ChatGLM-Efficient-Tuning",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -5151,7 +5151,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/Tongjilibo/bert4torch",
-                  "description": null,
+                  "description": "Tongjilibo/bert4torch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5202,7 +5202,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/vllm-project/vllm",
-                  "description": null,
+                  "description": "vllm-project/vllm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5211,11 +5211,11 @@
                     "id": 599547518,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T22:18:24Z",
-                    "open_issues": 8477,
+                    "last_commit": "2026-10-03T04:20:51Z",
+                    "open_issues": 8479,
                     "owner": "vllm-project",
                     "repo": "vllm",
-                    "stars": 93082,
+                    "stars": 93085,
                     "topics": [
                       "amd",
                       "blackwell",
@@ -5251,7 +5251,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/microsoft/DeepSpeed-MII",
-                  "description": null,
+                  "description": "deepspeedai/DeepSpeed-MII",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5283,7 +5283,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/huggingface/text-generation-inference",
-                  "description": null,
+                  "description": "huggingface/text-generation-inference",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -5321,7 +5321,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/OpenNMT/CTranslate2",
-                  "description": null,
+                  "description": "OpenNMT/CTranslate2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5370,7 +5370,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/bentoml/OpenLLM",
-                  "description": null,
+                  "description": "bentoml/OpenLLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5417,7 +5417,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/alibaba/MNN",
-                  "description": null,
+                  "description": "alibaba/MNN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5430,7 +5430,7 @@
                     "open_issues": 46,
                     "owner": "alibaba",
                     "repo": "MNN",
-                    "stars": 16165,
+                    "stars": 16166,
                     "topics": [
                       "arm",
                       "convolution",
@@ -5457,7 +5457,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/mlc-ai/mlc-llm",
-                  "description": null,
+                  "description": "mlc-ai/mlc-llm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5490,7 +5490,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/ModelTC/lightllm",
-                  "description": null,
+                  "description": "ModelTC/LightLLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5526,7 +5526,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/lyogavin/Anima/tree/main/air_llm",
-                  "description": null,
+                  "description": "lyogavin/Anima",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5554,7 +5554,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/InternLM/lmdeploy",
-                  "description": null,
+                  "description": "InternLM/lmdeploy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5564,10 +5564,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-28T07:04:58Z",
-                    "open_issues": 607,
+                    "open_issues": 608,
                     "owner": "InternLM",
                     "repo": "lmdeploy",
-                    "stars": 8105,
+                    "stars": 8106,
                     "topics": [
                       "codellama",
                       "cuda-kernels",
@@ -5601,7 +5601,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/FlagOpen/FlagEval",
-                  "description": null,
+                  "description": "FlagOpen/FlagEval",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5629,7 +5629,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/SJTU-LIT/ceval",
-                  "description": null,
+                  "description": "hkust-nlp/ceval",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5657,7 +5657,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/InternLM/opencompass",
-                  "description": null,
+                  "description": "open-compass/opencompass",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5691,7 +5691,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/CLUEbenchmark/SuperCLUElyb",
-                  "description": null,
+                  "description": "CLUEbenchmark/SuperCLUElyb",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5719,7 +5719,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/OpenLMLab/GAOKAO-Bench",
-                  "description": null,
+                  "description": "OpenLMLab/GAOKAO-Bench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5747,7 +5747,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/ruixiangcui/AGIEval",
-                  "description": null,
+                  "description": "ruixiangcui/AGIEval",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5775,7 +5775,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/mikegu721/xiezhibenchmark",
-                  "description": null,
+                  "description": "MikeGu721/XiezhiBenchmark",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5803,7 +5803,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/haonan-li/CMMLU",
-                  "description": null,
+                  "description": "haonan-li/CMMLU",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5831,7 +5831,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/Felixgithub2017/MMCU",
-                  "description": null,
+                  "description": "Felixgithub2017/MMCU",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5859,7 +5859,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/jeinlee1991/chinese-llm-benchmark",
-                  "description": null,
+                  "description": "jeinlee1991/chinese-llm-benchmark",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5892,7 +5892,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/thu-coai/Safety-Prompts",
-                  "description": null,
+                  "description": "thu-coai/Safety-Prompts",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5929,7 +5929,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/michael-wzhu/PromptCBLUE",
-                  "description": null,
+                  "description": "michael-wzhu/PromptCBLUE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5957,7 +5957,7 @@
                 {
                   "node_type": "item",
                   "title": "地址：https://github.com/xiami2019/HalluQA",
-                  "description": null,
+                  "description": "OpenMOSS/HalluQA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -5998,7 +5998,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/datawhalechina/hugging-llm",
-                      "description": null,
+                      "description": "datawhalechina/hugging-llm",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6026,7 +6026,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/Mooler0410/LLMsPracticalGuide",
-                      "description": null,
+                      "description": "Mooler0410/LLMsPracticalGuide",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6066,7 +6066,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/datawhalechina/prompt-engineering-for-developers",
-                      "description": null,
+                      "description": "datawhalechina/llm-cookbook",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6097,7 +6097,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
-                      "description": null,
+                      "description": "PlexPt/awesome-chatgpt-prompts-zh",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6110,7 +6110,7 @@
                         "open_issues": 47,
                         "owner": "PlexPt",
                         "repo": "awesome-chatgpt-prompts-zh",
-                        "stars": 62892,
+                        "stars": 62897,
                         "topics": [
                           "chat-gpt",
                           "chatgpt",
@@ -6138,7 +6138,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/openai/openai-cookbook",
-                      "description": null,
+                      "description": "openai/openai-cookbook",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6147,11 +6147,11 @@
                         "id": 468576060,
                         "language": "Jupyter Notebook",
                         "license": "MIT",
-                        "last_commit": "2026-10-02T14:49:58Z",
-                        "open_issues": 311,
+                        "last_commit": "2026-10-03T03:46:22Z",
+                        "open_issues": 312,
                         "owner": "openai",
                         "repo": "openai-cookbook",
-                        "stars": 76319,
+                        "stars": 76321,
                         "topics": [
                           "chatgpt",
                           "gpt-4",
@@ -6171,7 +6171,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/phodal/aigc",
-                      "description": null,
+                      "description": "phodal/aigc",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6212,7 +6212,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/km1994/LLMsNineStoryDemonTower",
-                      "description": null,
+                      "description": "km1994/LLMsNineStoryDemonTower",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6240,7 +6240,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/liguodongiot/llm-action",
-                      "description": null,
+                      "description": "liguodongiot/llm-action",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6253,7 +6253,7 @@
                         "open_issues": 20,
                         "owner": "liguodongiot",
                         "repo": "llm-action",
-                        "stars": 25124,
+                        "stars": 25127,
                         "topics": [
                           "llm",
                           "llm-inference",
@@ -6274,7 +6274,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/InternLM/tutorial",
-                      "description": null,
+                      "description": "InternLM/Tutorial",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6302,7 +6302,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/chenking2020/FindTheChatGPTer",
-                      "description": null,
+                      "description": "chenking2020/FindTheChatGPTer",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6351,7 +6351,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/ikaijua/Awesome-AITools",
-                      "description": null,
+                      "description": "ikaijua/Awesome-AITools",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6361,10 +6361,10 @@
                         "language": "Python",
                         "license": "CC-BY-4.0",
                         "last_commit": "2026-10-02T14:43:48Z",
-                        "open_issues": 59,
+                        "open_issues": 56,
                         "owner": "ikaijua",
                         "repo": "Awesome-AITools",
-                        "stars": 6204,
+                        "stars": 6206,
                         "topics": [
                           "agent-skills",
                           "agents",
@@ -6399,7 +6399,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/SunLemuria/open_source_chatgpt_list",
-                      "description": null,
+                      "description": "wilsonwen123/OpenGPTAndBeyond",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6437,7 +6437,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/nichtdax/awesome-totally-open-chatgpt",
-                      "description": null,
+                      "description": "nichtdax/awesome-totally-open-chatgpt",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6472,7 +6472,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/Hannibal046/Awesome-LLM",
-                      "description": null,
+                      "description": "Hannibal046/Awesome-LLM",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6500,7 +6500,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/DSXiangLi/DecryptPrompt",
-                      "description": null,
+                      "description": "DSXiangLi/DecryptPrompt",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6543,7 +6543,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
-                      "description": null,
+                      "description": "lonePatient/awesome-pretrained-chinese-nlp-models",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6589,7 +6589,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/catqaq/ChatPiXiu",
-                      "description": null,
+                      "description": "OpenLLMAI/OpenLLMWiki",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6629,7 +6629,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/DAMO-NLP-SG/LLM-Zoo",
-                      "description": null,
+                      "description": "DAMO-NLP-SG/LLM-Zoo",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6662,7 +6662,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/wgwang/LLMs-In-China",
-                      "description": null,
+                      "description": "wgwang/awesome-LLMs-In-China",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6690,7 +6690,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/OpenBMB/BMList",
-                      "description": null,
+                      "description": "OpenBMB/BMList",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6730,7 +6730,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/LiLittleCat/awesome-free-chatgpt",
-                      "description": null,
+                      "description": "LiLittleCat/awesome-free-chatgpt",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6765,7 +6765,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/luban-agi/Awesome-Domain-LLM",
-                      "description": null,
+                      "description": "luban-agi/Awesome-Domain-LLM",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6799,7 +6799,7 @@
                     {
                       "node_type": "item",
                       "title": "地址：https://github.com/nowork-studio/awesome-ai-startups",
-                      "description": null,
+                      "description": "nowork-studio/awesome-ai-startups",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -6809,7 +6809,7 @@
                         "language": null,
                         "license": "CC0-1.0",
                         "last_commit": "2026-10-02T18:03:03Z",
-                        "open_issues": 58,
+                        "open_issues": 57,
                         "owner": "nowork-studio",
                         "repo": "awesome-ai-startups",
                         "stars": 128,
@@ -6847,7 +6847,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:46:11.362Z",
+    "last_updated": "2026-10-03T04:24:27.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。",

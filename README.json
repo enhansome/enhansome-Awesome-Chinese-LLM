@@ -28,7 +28,7 @@
                         "open_issues": 609,
                         "owner": "zai-org",
                         "repo": "ChatGLM-6B",
-                        "stars": 40847,
+                        "stars": 40846,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:22:18.720Z"
@@ -89,7 +89,7 @@
                         "open_issues": 36,
                         "owner": "zai-org",
                         "repo": "ChatGLM3",
-                        "stars": 13631,
+                        "stars": 13629,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:22:18.720Z"
@@ -117,7 +117,7 @@
                         "open_issues": 46,
                         "owner": "zai-org",
                         "repo": "GLM-4",
-                        "stars": 7073,
+                        "stars": 7071,
                         "topics": [
                           "chatglm",
                           "chatglm-6b",
@@ -179,7 +179,7 @@
                         "open_issues": 8,
                         "owner": "InternLM",
                         "repo": "InternLM",
-                        "stars": 7277,
+                        "stars": 7276,
                         "topics": [
                           "chatbot",
                           "chinese",
@@ -218,7 +218,7 @@
                         "open_issues": 92,
                         "owner": "deepseek-ai",
                         "repo": "DeepSeek-V2",
-                        "stars": 5054,
+                        "stars": 5052,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:22:18.720Z"
@@ -285,7 +285,7 @@
                         "open_issues": 96,
                         "owner": "baichuan-inc",
                         "repo": "Baichuan-13B",
-                        "stars": 2918,
+                        "stars": 2917,
                         "topics": [
                           "artificial-intelligence",
                           "benchmark",
@@ -324,7 +324,7 @@
                         "open_issues": 282,
                         "owner": "baichuan-inc",
                         "repo": "Baichuan2",
-                        "stars": 4072,
+                        "stars": 4071,
                         "topics": [
                           "artificial-intelligence",
                           "benchmark",
@@ -477,7 +477,7 @@
                         "open_issues": 18,
                         "owner": "SkyworkAI",
                         "repo": "Skywork",
-                        "stars": 1499,
+                        "stars": 1498,
                         "topics": [
                           "llm"
                         ]
@@ -507,7 +507,7 @@
                         "open_issues": 32,
                         "owner": "01-ai",
                         "repo": "Yi",
-                        "stars": 7832,
+                        "stars": 7829,
                         "topics": [
                           "large-language-models"
                         ]
@@ -537,7 +537,7 @@
                         "open_issues": 5,
                         "owner": "ymcui",
                         "repo": "Chinese-LLaMA-Alpaca",
-                        "stars": 18915,
+                        "stars": 18914,
                         "topics": [
                           "alpaca",
                           "alpaca-2",
@@ -577,7 +577,7 @@
                         "open_issues": 6,
                         "owner": "ymcui",
                         "repo": "Chinese-LLaMA-Alpaca-2",
-                        "stars": 7098,
+                        "stars": 7097,
                         "topics": [
                           "64k",
                           "alpaca",
@@ -647,7 +647,7 @@
                         "open_issues": 196,
                         "owner": "LlamaChinese",
                         "repo": "Llama-Chinese",
-                        "stars": 14757,
+                        "stars": 14756,
                         "topics": [
                           "agent",
                           "llama",
@@ -877,7 +877,7 @@
                         "open_issues": 244,
                         "owner": "OpenMOSS",
                         "repo": "MOSS",
-                        "stars": 12381,
+                        "stars": 12382,
                         "topics": [
                           "chatgpt",
                           "deep-learning",
@@ -940,7 +940,7 @@
                         "open_issues": 109,
                         "owner": "CVI-SZU",
                         "repo": "Linly",
-                        "stars": 3037,
+                        "stars": 3036,
                         "topics": [
                           "bert",
                           "chatbot",
@@ -979,7 +979,7 @@
                         "open_issues": 211,
                         "owner": "yangjianxin1",
                         "repo": "Firefly",
-                        "stars": 6642,
+                        "stars": 6641,
                         "topics": [
                           "alpaca",
                           "aquila",
@@ -1056,7 +1056,7 @@
                         "open_issues": 62,
                         "owner": "BlinkDL",
                         "repo": "ChatRWKV",
-                        "stars": 9485,
+                        "stars": 9483,
                         "topics": [
                           "chatbot",
                           "chatgpt",
@@ -1119,7 +1119,7 @@
                         "open_issues": 45,
                         "owner": "TigerResearch",
                         "repo": "TigerBot",
-                        "stars": 2258,
+                        "stars": 2257,
                         "topics": [
                           "chinese",
                           "data",
@@ -1241,7 +1241,7 @@
                         "open_issues": 0,
                         "owner": "zjunlp",
                         "repo": "KnowLM",
-                        "stars": 1384,
+                        "stars": 1383,
                         "topics": [
                           "bilingual",
                           "chinese",
@@ -1334,7 +1334,7 @@
                         "open_issues": 5,
                         "owner": "RUC-GSAI",
                         "repo": "YuLan-Chat",
-                        "stars": 634,
+                        "stars": 633,
                         "topics": [
                           "large-language-models"
                         ]
@@ -1425,7 +1425,7 @@
                         "open_issues": 0,
                         "owner": "wenge-research",
                         "repo": "YAYI",
-                        "stars": 2525,
+                        "stars": 2524,
                         "topics": [
                           "bloom",
                           "chat",
@@ -1462,7 +1462,7 @@
                         "open_issues": 0,
                         "owner": "wenge-research",
                         "repo": "YAYI2",
-                        "stars": 2797,
+                        "stars": 2796,
                         "topics": [
                           "artificial-intelligence",
                           "chat",
@@ -1559,7 +1559,7 @@
                         "open_issues": 19,
                         "owner": "vivo-ai-lab",
                         "repo": "BlueLM",
-                        "stars": 943,
+                        "stars": 944,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:22:18.720Z"
@@ -1615,7 +1615,7 @@
                         "open_issues": 41,
                         "owner": "OrionStarAI",
                         "repo": "Orion",
-                        "stars": 809,
+                        "stars": 808,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:22:18.720Z"
@@ -1668,7 +1668,7 @@
                         "language": "Jupyter Notebook",
                         "license": "Apache-2.0",
                         "last_commit": "2026-11-09T07:36:54Z",
-                        "open_issues": 24,
+                        "open_issues": 25,
                         "owner": "OpenBMB",
                         "repo": "MiniCPM",
                         "stars": 11890,
@@ -1699,7 +1699,7 @@
                         "open_issues": 0,
                         "owner": "Langboat",
                         "repo": "Mengzi3",
-                        "stars": 1370,
+                        "stars": 1368,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:22:18.720Z"
@@ -1755,7 +1755,7 @@
                         "open_issues": 9,
                         "owner": "MiniMax-AI",
                         "repo": "MiniMax-01",
-                        "stars": 3475,
+                        "stars": 3473,
                         "topics": [
                           "large-language-models",
                           "llm",
@@ -1798,7 +1798,7 @@
                         "open_issues": 275,
                         "owner": "zai-org",
                         "repo": "VisualGLM-6B",
-                        "stars": 4147,
+                        "stars": 4146,
                         "topics": [
                           "chatglm-6b",
                           "gpt",
@@ -1962,7 +1962,7 @@
                         "open_issues": 66,
                         "owner": "OpenBMB",
                         "repo": "MiniCPM-V",
-                        "stars": 27166,
+                        "stars": 27169,
                         "topics": [
                           "minicpm",
                           "minicpm-o",
@@ -1995,7 +1995,7 @@
                         "open_issues": 326,
                         "owner": "QwenLM",
                         "repo": "Qwen-VL",
-                        "stars": 6727,
+                        "stars": 6728,
                         "topics": [
                           "large-language-models",
                           "vision-language-model"
@@ -2026,7 +2026,7 @@
                         "open_issues": 318,
                         "owner": "OpenGVLab",
                         "repo": "InternVL",
-                        "stars": 10173,
+                        "stars": 10171,
                         "topics": [
                           "gpt",
                           "gpt-4o",
@@ -2067,7 +2067,7 @@
                         "open_issues": 9,
                         "owner": "MiniMax-AI",
                         "repo": "MiniMax-01",
-                        "stars": 3475,
+                        "stars": 3473,
                         "topics": [
                           "large-language-models",
                           "llm",
@@ -2119,7 +2119,7 @@
                             "open_issues": 20,
                             "owner": "xionghonglin",
                             "repo": "DoctorGLM",
-                            "stars": 831,
+                            "stars": 830,
                             "topics": [
                               "chatglm-6b"
                             ]
@@ -2149,7 +2149,7 @@
                             "open_issues": 28,
                             "owner": "SCIR-HI",
                             "repo": "Huatuo-Llama-Med-Chinese",
-                            "stars": 5000,
+                            "stars": 4999,
                             "topics": [
                               "aidoctor",
                               "bloom",
@@ -2249,7 +2249,7 @@
                             "open_issues": 31,
                             "owner": "SCIR-HI",
                             "repo": "Med-ChatGLM",
-                            "stars": 1044,
+                            "stars": 1042,
                             "topics": [
                               "chinese",
                               "medical",
@@ -2347,7 +2347,7 @@
                             "open_issues": 28,
                             "owner": "WangRongsheng",
                             "repo": "XrayGLM",
-                            "stars": 1085,
+                            "stars": 1084,
                             "topics": [
                               "large-language-models",
                               "llms",
@@ -2410,7 +2410,7 @@
                             "open_issues": 6,
                             "owner": "shibing624",
                             "repo": "MedicalGPT",
-                            "stars": 5901,
+                            "stars": 5900,
                             "topics": [
                               "chatgpt",
                               "dpo",
@@ -2446,7 +2446,7 @@
                             "open_issues": 6,
                             "owner": "X-D-Lab",
                             "repo": "Sunsimiao",
-                            "stars": 472,
+                            "stars": 471,
                             "topics": [
                               "baichuan",
                               "baichuan-7b",
@@ -2484,7 +2484,7 @@
                             "open_issues": 7,
                             "owner": "michael-wzhu",
                             "repo": "ShenNong-TCM-LLM",
-                            "stars": 515,
+                            "stars": 516,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T04:22:18.720Z"
@@ -2545,7 +2545,7 @@
                             "open_issues": 0,
                             "owner": "WangRongsheng",
                             "repo": "CareGPT",
-                            "stars": 996,
+                            "stars": 995,
                             "topics": [
                               "baichuan",
                               "gpt",
@@ -2772,7 +2772,7 @@
                             "open_issues": 87,
                             "owner": "pengxiao-song",
                             "repo": "LaWGPT",
-                            "stars": 6051,
+                            "stars": 6053,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T04:22:18.720Z"
@@ -2800,7 +2800,7 @@
                             "open_issues": 53,
                             "owner": "CSHaitao",
                             "repo": "LexiLaw",
-                            "stars": 1056,
+                            "stars": 1057,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T04:22:18.720Z"
@@ -2825,10 +2825,10 @@
                             "language": "Python",
                             "license": "Apache-2.0",
                             "last_commit": "2024-08-28T09:23:35Z",
-                            "open_issues": 54,
+                            "open_issues": 55,
                             "owner": "AndrewZhe",
                             "repo": "lawyer-llama",
-                            "stars": 1004,
+                            "stars": 1003,
                             "topics": [
                               "alpaca",
                               "large-language-models",
@@ -2894,7 +2894,7 @@
                             "open_issues": 66,
                             "owner": "PKU-YuanGroup",
                             "repo": "ChatLaw",
-                            "stars": 7630,
+                            "stars": 7631,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T04:22:18.720Z"
@@ -3056,7 +3056,7 @@
                             "open_issues": 20,
                             "owner": "jerry1993-tech",
                             "repo": "Cornucopia-LLaMA-Fin-Chinese",
-                            "stars": 658,
+                            "stars": 657,
                             "topics": [
                               "chinese",
                               "finance",
@@ -3151,7 +3151,7 @@
                             "open_issues": 47,
                             "owner": "AI4Finance-Foundation",
                             "repo": "FinGPT",
-                            "stars": 21592,
+                            "stars": 21593,
                             "topics": [
                               "chatgpt",
                               "finance",
@@ -3262,7 +3262,7 @@
                             "open_issues": 4,
                             "owner": "ECNU-ICALK",
                             "repo": "EduChat",
-                            "stars": 974,
+                            "stars": 973,
                             "topics": [
                               "belle",
                               "chinese-nlp",
@@ -3334,7 +3334,7 @@
                             "open_issues": 10,
                             "owner": "THUDM",
                             "repo": "MathGLM",
-                            "stars": 329,
+                            "stars": 328,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T04:22:18.720Z"
@@ -3532,7 +3532,7 @@
                             "open_issues": 49,
                             "owner": "Clouditera",
                             "repo": "SecGPT",
-                            "stars": 3138,
+                            "stars": 3139,
                             "topics": []
                           },
                           "first_seen": "2026-08-28T04:22:18.720Z"
@@ -3595,7 +3595,7 @@
                             "open_issues": 66,
                             "owner": "OpenBMB",
                             "repo": "MiniCPM-V",
-                            "stars": 27166,
+                            "stars": 27169,
                             "topics": [
                               "minicpm",
                               "minicpm-o",
@@ -3661,7 +3661,7 @@
                         "open_issues": 22,
                         "owner": "chatchat-space",
                         "repo": "Langchain-Chatchat",
-                        "stars": 38717,
+                        "stars": 38715,
                         "topics": [
                           "chatbot",
                           "chatchat",
@@ -3710,7 +3710,7 @@
                         "open_issues": 47,
                         "owner": "X-D-Lab",
                         "repo": "LangChain-ChatGLM-Webui",
-                        "stars": 3303,
+                        "stars": 3302,
                         "topics": [
                           "belle",
                           "bilibili",
@@ -3806,7 +3806,7 @@
                         "open_issues": 37,
                         "owner": "InternLM",
                         "repo": "lagent",
-                        "stars": 2281,
+                        "stars": 2279,
                         "topics": [
                           "agent",
                           "gpt",
@@ -3839,7 +3839,7 @@
                         "open_issues": 10,
                         "owner": "melih-unsal",
                         "repo": "DemoGPT",
-                        "stars": 1906,
+                        "stars": 1905,
                         "topics": [
                           "agent",
                           "agents",
@@ -3884,10 +3884,10 @@
                         "language": "Python",
                         "license": "Apache-2.0",
                         "last_commit": "2026-11-06T07:37:13Z",
-                        "open_issues": 127,
+                        "open_issues": 126,
                         "owner": "OpenBMB",
                         "repo": "ChatDev",
-                        "stars": 34805,
+                        "stars": 34815,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:22:18.720Z"
@@ -3950,7 +3950,7 @@
                         "open_issues": 56,
                         "owner": "wenda-LLM",
                         "repo": "wenda",
-                        "stars": 6140,
+                        "stars": 6139,
                         "topics": [
                           "chatglm-6b",
                           "chatrwkv",
@@ -3982,7 +3982,7 @@
                         "open_issues": 148,
                         "owner": "Jittor",
                         "repo": "JittorLLMs",
-                        "stars": 2401,
+                        "stars": 2400,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:22:18.720Z"
@@ -4042,11 +4042,11 @@
                         "id": 640177564,
                         "language": "C++",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-11-19T00:56:41Z",
+                        "last_commit": "2026-11-20T00:50:29Z",
                         "open_issues": 361,
                         "owner": "ztxz16",
                         "repo": "fastllm",
-                        "stars": 5131,
+                        "stars": 5132,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:22:18.720Z"
@@ -4074,7 +4074,7 @@
                         "open_issues": 5,
                         "owner": "thunlp",
                         "repo": "WebCPM",
-                        "stars": 910,
+                        "stars": 909,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:22:18.720Z"
@@ -4102,7 +4102,7 @@
                         "open_issues": 332,
                         "owner": "binary-husky",
                         "repo": "gpt_academic",
-                        "stars": 71691,
+                        "stars": 71698,
                         "topics": [
                           "academic",
                           "chatglm-6b",
@@ -4136,7 +4136,7 @@
                         "open_issues": 237,
                         "owner": "ai-shifu",
                         "repo": "ChatALL",
-                        "stars": 16506,
+                        "stars": 16502,
                         "topics": [
                           "bingchat",
                           "chatbot",
@@ -4215,7 +4215,7 @@
                         "open_issues": 11,
                         "owner": "soulteary",
                         "repo": "docker-llama2-chat",
-                        "stars": 535,
+                        "stars": 534,
                         "topics": [
                           "llama",
                           "llama2",
@@ -4249,7 +4249,7 @@
                         "open_issues": 12,
                         "owner": "KevinWang676",
                         "repo": "ChatGLM2-Voice-Cloning",
-                        "stars": 615,
+                        "stars": 614,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:22:18.720Z"
@@ -4313,7 +4313,7 @@
                         "open_issues": 88,
                         "owner": "LazyAGI",
                         "repo": "LazyLLM",
-                        "stars": 3891,
+                        "stars": 3889,
                         "topics": [
                           "agents",
                           "ai-agent",
@@ -4356,7 +4356,7 @@
                         "open_issues": 24,
                         "owner": "memfreeme",
                         "repo": "memfree",
-                        "stars": 1513,
+                        "stars": 1512,
                         "topics": [
                           "ai",
                           "ai-search",
@@ -4413,7 +4413,7 @@
                         "open_issues": 22,
                         "owner": "esbatmop",
                         "repo": "MNBVC",
-                        "stars": 4309,
+                        "stars": 4310,
                         "topics": [
                           "chinese",
                           "chinese-language",
@@ -4449,7 +4449,7 @@
                         "open_issues": 10,
                         "owner": "CLUEbenchmark",
                         "repo": "CLUECorpus2020",
-                        "stars": 1024,
+                        "stars": 1022,
                         "topics": [
                           "albert",
                           "bert",
@@ -4582,7 +4582,7 @@
                         "open_issues": 35,
                         "owner": "PhoebusSi",
                         "repo": "Alpaca-CoT",
-                        "stars": 2785,
+                        "stars": 2784,
                         "topics": [
                           "alpaca",
                           "chatglm",
@@ -4790,7 +4790,7 @@
                         "open_issues": 13,
                         "owner": "Instruction-Tuning-with-GPT-4",
                         "repo": "GPT-4-LLM",
-                        "stars": 4331,
+                        "stars": 4330,
                         "topics": [
                           "alpaca",
                           "chatgpt",
@@ -4924,7 +4924,7 @@
                         "open_issues": 13,
                         "owner": "Instruction-Tuning-with-GPT-4",
                         "repo": "GPT-4-LLM",
-                        "stars": 4331,
+                        "stars": 4330,
                         "topics": [
                           "alpaca",
                           "chatgpt",
@@ -4994,11 +4994,11 @@
                     "id": 235860204,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T22:40:39Z",
-                    "open_issues": 1601,
+                    "last_commit": "2026-11-20T00:54:43Z",
+                    "open_issues": 1604,
                     "owner": "deepspeedai",
                     "repo": "DeepSpeed",
-                    "stars": 43339,
+                    "stars": 43345,
                     "topics": [
                       "billion-parameters",
                       "compression",
@@ -5036,11 +5036,11 @@
                     "id": 646410686,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T20:47:11Z",
-                    "open_issues": 1254,
+                    "last_commit": "2026-11-19T16:17:35Z",
+                    "open_issues": 1255,
                     "owner": "hiyouga",
                     "repo": "LlamaFactory",
-                    "stars": 76111,
+                    "stars": 76142,
                     "topics": [
                       "agent",
                       "ai",
@@ -5089,7 +5089,7 @@
                     "open_issues": 0,
                     "owner": "hiyouga",
                     "repo": "ChatGLM-Efficient-Tuning",
-                    "stars": 3706,
+                    "stars": 3705,
                     "topics": [
                       "alpaca",
                       "chatglm",
@@ -5131,7 +5131,7 @@
                     "open_issues": 0,
                     "owner": "Tongjilibo",
                     "repo": "bert4torch",
-                    "stars": 1324,
+                    "stars": 1323,
                     "topics": [
                       "belle",
                       "bert",
@@ -5178,11 +5178,11 @@
                     "id": 599547518,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T01:48:59Z",
-                    "open_issues": 10636,
+                    "last_commit": "2026-11-20T01:28:29Z",
+                    "open_issues": 10724,
                     "owner": "vllm-project",
                     "repo": "vllm",
-                    "stars": 97185,
+                    "stars": 97230,
                     "topics": [
                       "amd",
                       "blackwell",
@@ -5231,7 +5231,7 @@
                     "open_issues": 210,
                     "owner": "deepspeedai",
                     "repo": "DeepSpeed-MII",
-                    "stars": 2118,
+                    "stars": 2117,
                     "topics": [
                       "deep-learning",
                       "inference",
@@ -5263,7 +5263,7 @@
                     "open_issues": 324,
                     "owner": "huggingface",
                     "repo": "text-generation-inference",
-                    "stars": 10877,
+                    "stars": 10876,
                     "topics": [
                       "bloom",
                       "deep-learning",
@@ -5297,11 +5297,11 @@
                     "id": 210299376,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T19:46:12Z",
-                    "open_issues": 274,
+                    "last_commit": "2026-11-19T20:06:57Z",
+                    "open_issues": 275,
                     "owner": "OpenNMT",
                     "repo": "CTranslate2",
-                    "stars": 4757,
+                    "stars": 4756,
                     "topics": [
                       "avx",
                       "avx2",
@@ -5350,7 +5350,7 @@
                     "open_issues": 25,
                     "owner": "bentoml",
                     "repo": "OpenLLM",
-                    "stars": 12606,
+                    "stars": 12607,
                     "topics": [
                       "bentoml",
                       "fine-tuning",
@@ -5393,11 +5393,11 @@
                     "id": 181436799,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T13:27:12Z",
-                    "open_issues": 115,
+                    "last_commit": "2026-11-19T09:40:50Z",
+                    "open_issues": 120,
                     "owner": "alibaba",
                     "repo": "MNN",
-                    "stars": 16573,
+                    "stars": 16576,
                     "topics": [
                       "arm",
                       "convolution",
@@ -5434,10 +5434,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-18T01:02:48Z",
-                    "open_issues": 376,
+                    "open_issues": 374,
                     "owner": "mlc-ai",
                     "repo": "mlc-llm",
-                    "stars": 23372,
+                    "stars": 23400,
                     "topics": [
                       "language-model",
                       "llm",
@@ -5466,11 +5466,11 @@
                     "id": 669420857,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T19:53:32Z",
-                    "open_issues": 178,
+                    "last_commit": "2026-11-19T16:05:01Z",
+                    "open_issues": 176,
                     "owner": "ModelTC",
                     "repo": "LightLLM",
-                    "stars": 4368,
+                    "stars": 4367,
                     "topics": [
                       "deep-learning",
                       "gpt",
@@ -5530,8 +5530,8 @@
                     "id": 654122609,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T13:15:35Z",
-                    "open_issues": 660,
+                    "last_commit": "2026-11-19T14:48:52Z",
+                    "open_issues": 669,
                     "owner": "InternLM",
                     "repo": "lmdeploy",
                     "stars": 8150,
@@ -5634,10 +5634,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-18T08:16:49Z",
-                    "open_issues": 326,
+                    "open_issues": 328,
                     "owner": "open-compass",
                     "repo": "opencompass",
-                    "stars": 7602,
+                    "stars": 7604,
                     "topics": [
                       "benchmark",
                       "evaluation",
@@ -5699,7 +5699,7 @@
                     "open_issues": 6,
                     "owner": "OpenLMLab",
                     "repo": "GAOKAO-Bench",
-                    "stars": 811,
+                    "stars": 812,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:22:18.720Z"
@@ -5727,7 +5727,7 @@
                     "open_issues": 9,
                     "owner": "ruixiangcui",
                     "repo": "AGIEval",
-                    "stars": 778,
+                    "stars": 776,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:22:18.720Z"
@@ -5839,7 +5839,7 @@
                     "open_issues": 18,
                     "owner": "jeinlee1991",
                     "repo": "chinese-llm-benchmark",
-                    "stars": 6523,
+                    "stars": 6521,
                     "topics": [
                       "agentic-ai",
                       "artificial-intelligence",
@@ -5872,7 +5872,7 @@
                     "open_issues": 1,
                     "owner": "thu-coai",
                     "repo": "Safety-Prompts",
-                    "stars": 1233,
+                    "stars": 1232,
                     "topics": [
                       "attack-defense",
                       "chatgpt",
@@ -5934,7 +5934,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2024-06-05T13:32:51Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "OpenMOSS",
                     "repo": "HalluQA",
                     "stars": 140,
@@ -5978,7 +5978,7 @@
                         "open_issues": 0,
                         "owner": "datawhalechina",
                         "repo": "hugging-llm",
-                        "stars": 3064,
+                        "stars": 3063,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:22:18.720Z"
@@ -6006,7 +6006,7 @@
                         "open_issues": 16,
                         "owner": "Mooler0410",
                         "repo": "LLMsPracticalGuide",
-                        "stars": 10215,
+                        "stars": 10214,
                         "topics": [
                           "large-language-models",
                           "natural-language-processing",
@@ -6080,11 +6080,11 @@
                         "id": 468576060,
                         "language": "Jupyter Notebook",
                         "license": "MIT",
-                        "last_commit": "2026-11-17T05:45:21Z",
-                        "open_issues": 375,
+                        "last_commit": "2026-11-19T22:55:32Z",
+                        "open_issues": 378,
                         "owner": "openai",
                         "repo": "openai-cookbook",
-                        "stars": 77241,
+                        "stars": 77244,
                         "topics": [
                           "chatgpt",
                           "gpt-4",
@@ -6117,7 +6117,7 @@
                         "open_issues": 1,
                         "owner": "phodal",
                         "repo": "aigc",
-                        "stars": 1650,
+                        "stars": 1649,
                         "topics": [
                           "aigc",
                           "chatgpt",
@@ -6158,7 +6158,7 @@
                         "open_issues": 1,
                         "owner": "km1994",
                         "repo": "LLMsNineStoryDemonTower",
-                        "stars": 2162,
+                        "stars": 2161,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:22:18.720Z"
@@ -6186,7 +6186,7 @@
                         "open_issues": 20,
                         "owner": "liguodongiot",
                         "repo": "llm-action",
-                        "stars": 25296,
+                        "stars": 25294,
                         "topics": [
                           "llm",
                           "llm-inference",
@@ -6217,10 +6217,10 @@
                         "language": "Python",
                         "license": null,
                         "last_commit": "2026-04-22T08:39:08Z",
-                        "open_issues": 808,
+                        "open_issues": 807,
                         "owner": "InternLM",
                         "repo": "Tutorial",
-                        "stars": 1983,
+                        "stars": 1982,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:22:18.720Z"
@@ -6248,7 +6248,7 @@
                         "open_issues": 8,
                         "owner": "chenking2020",
                         "repo": "FindTheChatGPTer",
-                        "stars": 2007,
+                        "stars": 2006,
                         "topics": [
                           "agi",
                           "alpaca",
@@ -6293,11 +6293,11 @@
                         "id": 622424201,
                         "language": "Python",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-11-15T11:15:23Z",
-                        "open_issues": 76,
+                        "last_commit": "2026-11-19T15:11:53Z",
+                        "open_issues": 77,
                         "owner": "ikaijua",
                         "repo": "Awesome-AITools",
-                        "stars": 6354,
+                        "stars": 6360,
                         "topics": [
                           "agent-skills",
                           "agents",
@@ -6384,7 +6384,7 @@
                         "open_issues": 8,
                         "owner": "nichtdax",
                         "repo": "awesome-totally-open-chatgpt",
-                        "stars": 4815,
+                        "stars": 4814,
                         "topics": [
                           "alternative",
                           "awesome",
@@ -6419,7 +6419,7 @@
                         "open_issues": 511,
                         "owner": "Hannibal046",
                         "repo": "Awesome-LLM",
-                        "stars": 27506,
+                        "stars": 27510,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:22:18.720Z"
@@ -6447,7 +6447,7 @@
                         "open_issues": 1,
                         "owner": "DSXiangLi",
                         "repo": "DecryptPrompt",
-                        "stars": 3454,
+                        "stars": 3453,
                         "topics": [
                           "aigc",
                           "chain-of-thought",
@@ -6490,7 +6490,7 @@
                         "open_issues": 5,
                         "owner": "lonePatient",
                         "repo": "awesome-pretrained-chinese-nlp-models",
-                        "stars": 5620,
+                        "stars": 5618,
                         "topics": [
                           "bert",
                           "chinese",
@@ -6609,7 +6609,7 @@
                         "open_issues": 18,
                         "owner": "wgwang",
                         "repo": "awesome-LLMs-In-China",
-                        "stars": 6487,
+                        "stars": 6486,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T04:22:18.720Z"
@@ -6637,7 +6637,7 @@
                         "open_issues": 1,
                         "owner": "OpenBMB",
                         "repo": "BMList",
-                        "stars": 345,
+                        "stars": 344,
                         "topics": [
                           "ai",
                           "api",
@@ -6712,7 +6712,7 @@
                         "open_issues": 1,
                         "owner": "luban-agi",
                         "repo": "Awesome-Domain-LLM",
-                        "stars": 2580,
+                        "stars": 2579,
                         "topics": [
                           "awesome-list",
                           "dataset",
@@ -6743,7 +6743,7 @@
                         "language": null,
                         "license": "CC0-1.0",
                         "last_commit": "2026-10-09T18:03:20Z",
-                        "open_issues": 111,
+                        "open_issues": 114,
                         "owner": "nowork-studio",
                         "repo": "awesome-ai-startups",
                         "stars": 150,
@@ -6781,7 +6781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T01:52:04.486Z",
+    "last_updated": "2026-11-20T01:45:59.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。",
@@ -6790,10 +6790,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-05-10T05:03:06Z",
-      "open_issues": 40,
+      "open_issues": 41,
       "owner": "AiHubCN",
       "repo": "Awesome-Chinese-LLM",
-      "stars": 22786,
+      "stars": 22783,
       "topics": [
         "awesome-lists",
         "chatglm",
